@@ -1,0 +1,472 @@
+name : English
+
+# General Strings
+general_1 : "😐Rᴇᴘʟʏ ᴛᴏ ᴀ ᴜꜱᴇʀ'ꜱ ᴍᴇꜱꜱᴀɢᴇ ᴏʀ ɢɪᴠᴇ ᴜꜱᴇʀɴᴀᴍᴇ/ᴜꜱᴇʀ_ɪᴅ."
+general_2 : "❌Eʀʀᴏʀ! Wʀᴏɴɢ Uꜱᴀɢᴇ ᴏꜰ Cᴏᴍᴍᴀɴᴅ."
+general_3 : "☹Sᴏᴍᴇ **ᴇxᴄᴇᴘᴛɪᴏɴ ᴏᴄᴄᴜʀᴇᴅ** wʜɪʟᴇ ᴘʀᴏᴄᴇꜱꜱɪɴɢ ʏᴏᴜʀ ꞯᴜᴇʀʏ.\n\nExᴄᴇᴘᴛɪᴏɴ Tʏᴘᴇ:- {0}"
+general_4 : "😏Yᴏᴜ'ʀᴇ ᴀɴ ᴀɴᴏɴʏᴍᴏᴜꜱ ᴀᴅᴍɪɴ ɪɴ ᴛʜɪꜱ ᴄʜᴀᴛ ɢʀᴏᴜᴘ!\nRᴇᴠᴇʀᴛ ʙᴀᴄᴋ ᴛᴏ Uꜱᴇʀ Aᴄᴄᴏᴜɴᴛ Fʀᴏᴍ Aᴅᴍɪɴ Rɪɢʜᴛꜱ."
+general_5 : "🥴Yᴏᴜ ɴᴇᴇᴅ ᴛᴏ ʙᴇ ᴀᴅᴍɪɴ wɪᴛʜ ᴍᴀɴᴀɢᴇ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ ʀɪɢʜᴛꜱ ᴛᴏ ᴘᴇʀꜰᴏʀᴍ ᴛʜɪꜱ ᴀᴄᴛɪᴏɴ."
+general_6 : "🙄Bᴏᴛ ɪꜱɴ'ᴛ strᴇᴀᴍɪɴɢ ᴏɴ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ."
+
+# Classes - Telegram.py
+tg_1 : "😫Bᴏᴛ ɪꜱ **overloaded** wɪᴛʜ ᴅᴏwɴʟᴏᴀᴅꜱ ʀɪɢʜᴛ ɴᴏw.\n\n**Tʀʏ Aꜰᴛᴇʀ:** {0} (__expected time__)"
+tg_2 : "😞Fᴀɪʟᴇᴅ ᴛᴏ ᴅᴏwɴʟᴏᴀᴅ ᴛʜᴇ ᴍᴇᴅɪᴀ ꜰʀᴏᴍ ᴛᴇʟᴇɢʀᴀᴍ."
+
+# Core - Call.py
+call_1 : "🙁Bᴏᴛ ʀᴇꞯᴜɪʀᴇꜱ **Aᴅᴍɪɴ** Pᴇʀᴍɪꜱꜱɪᴏɴ ᴛᴏ ɪɴᴠɪᴛᴇ ᴀꜱꜱɪꜱᴛᴀɴᴛ ᴀᴄᴄᴏᴜɴᴛ ᴛᴏ ʏᴏᴜʀ ᴄʜᴀɴɴᴇʟ."
+call_2 : "😡Aꜱꜱɪꜱᴛᴀɴᴛ ɪꜱ ʙᴀɴɴᴇᴅ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴏʀ ᴄʜᴀɴɴᴇʟ, ᴘʟᴇᴀꜱᴇ ᴜɴʙᴀɴ.\n\n**Aꜱꜱɪꜱᴛᴀɴᴛ Uꜱᴇʀɴᴀᴍᴇ:** @{0}\n**Assistant ID:** {1}"
+call_3 : "🤕Exᴄᴇᴘᴛɪᴏɴ Oᴄᴄᴜʀᴇᴅ Wʜɪʟᴇ Iɴᴠɪᴛɪɴɢ Aꜱꜱɪꜱᴛᴀɴᴛ Aᴄᴄᴏᴜɴᴛ ᴛᴏ ʏᴏᴜʀ ᴄʜᴀᴛ.\n\n**Rᴇᴀꜱᴏɴ**: {0}"
+call_4 : "🧐Bᴏᴛ ʀᴇꞯᴜɪʀᴇꜱ Iɴᴠɪᴛᴇ Uꜱᴇʀꜱ Vɪᴀ Lɪɴᴋ Pᴇʀᴍɪꜱꜱɪᴏɴ ᴛᴏ ɪɴᴠɪᴛᴇ ᴀꜱꜱɪꜱᴛᴀɴᴛ ᴀᴄᴄᴏᴜɴᴛ ᴛᴏ ʏᴏᴜʀ ᴄʜᴀᴛ ɢʀᴏᴜᴘ."
+call_5 : "😍Aꜱꜱɪꜱᴛᴀɴᴛ Aᴄᴄᴏᴜɴᴛ wɪʟʟ ʙᴇ ᴊᴏɪɴɪɴɢ ɪɴ 5 Sᴇᴄᴏɴᴅꜱ..Pʟᴇᴀꜱᴇ Wᴀɪᴛ❤!"
+call_6 : "✅Aꜱꜱɪꜱᴛᴀɴᴛ Aᴄᴄᴏᴜɴᴛ[{0}] Jᴏɪɴᴇᴅ Sᴜᴄᴄᴇꜱꜱꜰᴜʟʟʏ.\n\nSᴛᴀʀᴛɪɴɢ Mᴜꜱɪᴄ Nᴏw🎧"
+call_7 : "😳Hᴀʀᴍꜰᴜʟ Aᴅᴍɪɴ Rɪɢʜᴛ Gɪᴠᴇɴ **\n\nPʟᴇᴀꜱᴇ ʀᴇᴍᴏᴠᴇ **BAN USERS** ʀɪɢʜᴛꜱ ꜰᴏʀ ᴍᴇ🥺"
+call_8 : "😳Hᴀʀᴍꜰᴜʟ Aᴅᴍɪɴ Rɪɢʜᴛ Gɪᴠᴇɴ **\n\nPʟᴇᴀꜱᴇ ʀᴇᴍᴏᴠᴇ **ADD NEW ADMINS** ʀɪɢʜᴛꜱ ꜰʀᴏᴍ ᴛʜᴇ ʙᴏᴛ😞."
+call_9 : "😐**Fᴀɪʟᴇᴅ ᴛᴏ ꜱwɪᴛᴄʜ Sᴛʀᴇᴀᴍ**\nPʟᴇᴀꜱᴇ ᴜꜱᴇ /skip ᴛᴏ ᴄʜᴀɴɢᴇ ᴛʀᴀᴄᴋ ᴀɢᴀɪɴ."
+call_10 : "⏺ Dᴏwɴʟᴏᴀᴅɪɴɢ Nᴇxᴛ Tʀᴀᴄᴋ ꜰʀᴏᴍ Pʟᴀʏʟɪꜱᴛ"
+call_11 : "🥺Pʟᴇᴀꜱᴇ ᴀᴅᴅ @{0} ᴛᴏ ʏᴏᴜʀ ᴄʜᴀɴɴᴇʟ[ ID: {1}].\n\nBᴏᴛ ɪꜱ ɴᴏᴛ ᴀʙʟᴇ ᴛᴏ ɢᴇᴛ ᴄʜᴀɴɴᴇʟ ᴅᴇᴛᴀɪʟꜱ."
+
+# PLUGINS - Auth.py
+auth_1 : "✨Yᴏᴜ ᴄᴀɴ ᴏɴʟʏ ʜᴀᴠᴇ 20 Uꜱᴇʀꜱ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ'ꜱ Aᴜᴛʜᴏʀɪꜱᴇᴅ Uꜱᴇʀꜱ Lɪꜱᴛ (AUL)"
+auth_2 : "➕Aᴅᴅᴇᴅ ᴛᴏ Aᴜᴛʜᴏʀɪꜱᴇᴅ Uꜱᴇʀꜱ Lɪꜱᴛ ᴏꜰ ʏᴏᴜʀ ɢʀᴏᴜᴘ."
+auth_3 : "✅Aʟʀᴇᴀᴅʏ ɪɴ ᴛʜᴇ Aᴜᴛʜᴏʀɪꜱᴇᴅ Uꜱᴇʀꜱ Lɪꜱᴛ."
+auth_4 : "❗Rᴇᴍᴏᴠᴇᴅ ꜰʀᴏᴍ Aᴜᴛʜᴏʀɪꜱᴇᴅ Uꜱᴇʀꜱ Lɪꜱᴛ ᴏꜰ ᴛʜɪꜱ Gʀᴏᴜᴘ."
+auth_5 : "🙁Tᴀʀɢᴇᴛᴇᴅ ᴜꜱᴇʀ ɪꜱ ɴᴏᴛ ᴀɴ Aᴜᴛʜᴏʀɪꜱᴇᴅ Uꜱᴇʀ."
+auth_6 : "Fᴇᴛᴄʜɪɴɢ Aᴜᴛʜᴏʀɪꜱᴇᴅ Uꜱᴇʀꜱ... Pʟᴇᴀꜱᴇ Wᴀɪᴛ❤"
+auth_7 : "**📚Aᴜᴛʜᴏʀɪꜱᴇᴅ Uꜱᴇʀꜱ Lɪꜱᴛ[AUL]:**\n\n"
+auth_8 : "┗ Aᴅᴅᴇᴅ Bʏ:-"
+
+# PLUGINS - Admins
+admin_1 : "🥺 Mᴜꜱɪᴄ ɪꜱ ᴀʟʀᴇᴀᴅʏ Pᴀᴜꜱᴇᴅ."
+admin_2 : "😞 wʜʏ ʏᴏᴜ ᴅᴏ ʟɪᴋᴇ ᴛʜᴀᴛ , ɪ ᴍᴇᴀɴ  ʏᴏᴜ ᴘᴀᴜꜱᴇ ᴍᴇ 🥺 {}!"
+admin_3 : "😍 Mᴜꜱɪᴄ ɪꜱ ᴀʟʀᴇᴀᴅʏ ʀᴇꜱᴜᴍᴇᴅ."
+admin_4 : "ᴛʜᴀɴᴋꜱ ꜰᴏʀ ʀᴇꜱᴜᴍɪɴɢ ᴍᴇ🥰 {}!"
+admin_5 : "🤫 Mᴜꜱɪᴄ ɪꜱ ᴀʟʀᴇᴀᴅʏ ᴍᴜᴛᴇᴅ."
+admin_6 : "🤐 ᴍʏ ᴍᴏᴜᴛʜ wᴀꜱ ᴄʟᴏꜱᴇᴛᴇᴅ ʙʏ  ➡️ {}!"
+admin_7 : "😍 ɪ ᴀᴍ ᴀʟᴛʀᴀᴅʏ ꜰʀᴇᴇ ꜰᴏʀ ꜱɪɴɢ."
+admin_8 : "ᴛʜᴀɴᴋꜱ ꜰᴏʀ ᴜɴᴍᴜᴛɪɴɢ ᴍᴇ 😘 {}!"
+admin_9 : "ʜᴇʏ {}! wʜʏ ʏᴏᴜ ꜱᴛᴏᴘ ᴍᴇ 😏"
+admin_10 : "🎧 Vᴏɪᴄᴇᴄʜᴀᴛ Sᴋɪᴘᴘᴇᴅ ʙʏ {}!. Nᴏ Mᴏʀᴇ Mᴜꜱɪᴄ ɪɴ Qᴜᴇᴜᴇ🥴."
+admin_11 : "❌Eʀʀᴏʀ wʜɪʟᴇ ᴄʜᴀɴɢɪɴɢ strᴇᴀᴍ ᴛᴏ **{0}**\n\nPʟᴇᴀꜱᴇ ᴜꜱᴇ /skip ᴀɢᴀɪɴ."
+admin_12 : "☹Uɴᴀʙʟᴇ ᴛᴏ ꜱᴋɪᴘ ᴛᴏ ᴀ ꜱᴘᴇᴄɪꜰɪᴄ ᴛʀᴀᴄᴋ ʙᴇᴄᴀᴜꜱᴇ ᴏꜰ ᴇɴᴀʙʟᴇᴅ ʟᴏᴏᴘ play. Pʟᴇᴀꜱᴇ ᴅɪꜱᴀʙʟᴇ ʟᴏᴏᴘ play ᴠɪᴀ `/loop disable` ᴛᴏ ᴜꜱᴇ ᴛʜɪꜱ ꜰᴇᴀᴛᴜʀᴇ."
+admin_13 : "🧐Pʟᴇᴀꜱᴇ ᴜꜱᴇ ɴᴜᴍᴇʀɪᴄ ɴᴜᴍʙᴇʀꜱ ꜰᴏʀ ꜱᴘᴇᴄɪꜰɪᴄ ᴛʀᴀᴄᴋꜱ, ʟɪᴋᴇ 1, 2 ᴏʀ 4 ᴇᴛᴄ"
+admin_14 : "😐Aᴛʟᴇᴀꜱᴛ 2 ᴛʀᴀᴄᴋꜱ ɴᴇᴇᴅᴇᴅ ɪɴ queue ᴛᴏ ꜱᴋɪᴘ ᴛᴏ ᴀ ꜱᴘᴇᴄɪꜰɪᴄ ɴᴜᴍʙᴇʀ. Cʜᴇᴄᴋ queue ʙʏ /queue"
+admin_15 : "😑Nᴏᴛ ᴇɴᴏᴜɢʜ ᴛʀᴀᴄᴋꜱ ɪɴ queue ꜰᴏʀ ᴛʜᴇ ᴠᴀʟᴜᴇ ɢɪᴠᴇɴ ʙʏ ʏᴏᴜ. Pʟᴇᴀꜱᴇ ᴄʜᴏᴏꜱᴇ ɴᴜᴍʙᴇʀꜱ ʙᴇᴛwᴇᴇɴ 1 ᴀɴᴅ {0}"
+admin_16 : "😶Fᴀɪʟᴇᴅ ᴛᴏ ꜱᴋɪᴘ ᴛᴏ ꜱᴘᴇᴄɪꜰɪᴄ ᴛʀᴀᴄᴋ.\n\nCʜᴇᴄᴋ ʟᴇꜰᴛ queue ʙʏ /queue"
+admin_17 : "{0}.. Pʟᴇᴀꜱᴇ Wᴀɪᴛ💖"
+admin_18 : "❗Aᴅᴍɪɴ Lɪꜱᴛ Nᴏᴛ Fᴏᴜɴᴅ\nPʟᴇᴀꜱᴇ ʀᴇʟᴏᴀᴅ ᴀᴅᴍɪɴʟɪꜱᴛ ᴠɪᴀ /admincache  ᴏʀ /reload"
+admin_19 : "🛠Yᴏᴜ ɴᴇᴇᴅ ᴛᴏ ʙᴇ ᴀᴅᴍɪɴ wɪᴛʜ ᴍᴀɴᴀɢᴇ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ ʀɪɢʜᴛꜱ ᴛᴏ ᴘᴇʀꜰᴏʀᴍ ᴛʜɪꜱ.\nIꜰ ʏᴏᴜ'ʀᴇ ᴀʟʀᴇᴀᴅʏ ᴀᴅᴍɪɴ, ʀᴇʟᴏᴀᴅ ᴀᴅᴍɪɴᴄᴀᴄʜᴇ ᴠɪᴀ /admincache "
+admin_20 : "✅Aᴅᴍɪɴ ᴄᴀᴄʜᴇ ʀᴇʟᴏᴀᴅᴇᴅ ꜱᴜᴄᴄᴇꜱꜱꜰᴜʟʟʏ."
+admin_21 : "🙁Nᴏᴛʜɪɴɢ ɪɴꜱɪᴅᴇ queue ᴛᴏ ꜱʜᴜꜰꜰʟᴇ"
+admin_22 : "❌Fᴀɪʟᴇᴅ ᴛᴏ ꜱʜᴜꜰꜰʟᴇ.\n\nCʜᴇᴄᴋ queue : /queue"
+admin_23 : "**🔂Qᴜᴇᴜᴇ Sʜᴜꜰꜰʟᴇᴅ ʙʏ {0}**\n\nCʜᴇᴄᴋ ꜱʜᴜꜰꜰʟᴇᴅ queue : /queue"
+admin_24 : "**Uꜱᴀɢᴇ:**\n/loop [enable/disable] or [Number between 1-10]\n\n**Example:** /loop 5"
+admin_25 : "🔄Lᴏᴏᴘ ᴇɴᴀʙʟᴇᴅ ʙʏ {0} ꜰᴏʀ {1} ᴛɪᴍᴇꜱ. Bᴏᴛ wɪʟʟ ɴᴏw ʀᴇᴘᴇᴀᴛ ᴛʜᴇ ᴄᴜʀʀᴇɴᴛ playɪɴɢ ᴍᴜꜱɪᴄ ᴏɴ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ ꜰᴏʀ {1} ᴛɪᴍᴇꜱ"
+admin_26 : "💢Pʟᴇᴀꜱᴇ ᴜꜱᴇ ɴᴜᴍʙᴇʀꜱ ʙᴇᴛwᴇᴇɴ 1-10 ꜰᴏʀ ʟᴏᴏᴘ play"
+admin_27 : "💛Lᴏᴏᴘ Pʟᴀʏ ʜᴀꜱ ʙᴇᴇɴ ᴅɪꜱᴀʙʟᴇᴅ"
+admin_28 : "**Usage:**\n/seek or /seekback [Duration in seconds]"
+admin_29 : "⭕Pʟᴇᴀꜱᴇ ᴜꜱᴇ ɴᴜᴍᴇʀɪᴄ ᴅᴜʀᴀᴛɪᴏɴ ꜱᴇᴄᴏɴᴅꜱ ʟɪᴋᴇ 10-20-30 ꜱᴇᴄᴏɴᴅ ꜰᴏʀ ꜱᴇᴇᴋɪɴɢ"
+admin_30 : "😔Sᴏʀʀʏ ʙᴜᴛ ʏᴏᴜ ᴄᴀɴ'ᴛ ꜱᴇᴇᴋ ᴛʜᴇ ᴄᴜʀʀᴇɴᴛʟʏ playɪɴɢ strᴇᴀᴍ. Iᴛ ᴄᴀɴ ᴏɴʟʏ ʙᴇ ꜱᴋɪᴘᴘᴇᴅ ᴏʀ ꜱᴛᴏᴘᴘᴇᴅ."
+admin_31 : "🤯Bᴏᴛ ɪꜱ ɴᴏᴛ ᴀʙʟᴇ ᴛᴏ ꜱᴇᴇᴋ ᴅᴜᴇ ᴛᴏ ʜɪɢʜ ᴅᴜʀᴀᴛɪᴏɴ ɢɪᴠᴇɴ. Yᴏᴜ ɴᴇᴇᴅ ᴛᴏ ꜱᴇᴇᴋ ᴛᴏ ᴀ ʟᴏwᴇʀ ᴅᴜʀᴀᴛɪᴏɴ ᴀɴᴅ ʀᴇᴍᴇᴍʙᴇʀ ᴛʜᴀᴛ ᴀ ᴛɪᴍᴇ ᴏꜰ 10 ꜱᴇᴄᴏɴᴅꜱ ɪꜱ ʟᴇꜰᴛ ᴀꜰᴛᴇʀ ꜱᴇᴇᴋɪɴɢ.\n\nCᴜʀʀᴇɴᴛʟʏ playᴇᴅ** {0} ᴍɪɴꜱ ᴏᴜᴛ ᴏꜰ {1}** ᴍɪɴꜱ"
+admin_32 : "😇Pʟᴇᴀꜱᴇ Wᴀɪᴛ... Sᴇᴇᴋɪɴɢ ᴏɴɢᴏɪɴɢ strᴇᴀᴍ."
+admin_33 : "✅Sᴜᴄᴄᴇꜱꜱꜰᴜʟʟʏ Sᴇᴇᴋᴇᴅ Sᴛʀᴇᴀᴍ ᴛᴏ {0} Mɪɴꜱ"
+admin_34 : "😳Fᴀɪʟᴇᴅ ᴛᴏ ꜱᴇᴇᴋ ᴛʜᴇ ᴄᴜʀʀᴇɴᴛ strᴇᴀᴍ."
+
+# Bot 
+
+# Start
+start_1 : "💛ᴛʜᴀɴᴋꜱ ꜰᴏʀ ᴀᴅᴅɪɴɢ ᴍᴇ In {0} .\n  ❤️ {1} ɪꜱ ʙᴇꜱᴛ ᴀɴᴅ ᴍᴏꜱᴛ ᴘᴏwᴇʀꜰᴜʟ ᴍᴜꜱɪᴄ ʙᴏᴛ \n✅ ɪ ᴀᴍ ᴄʀᴇᴀᴛᴇᴅɴ ʙʏ  ƬЄ𝗔Μ ƲƉ𝗔ИƤƖЯ𝗔ƤƤƲ ✨"
+start_3 : "Wᴇʟᴄᴏᴍᴇ Tᴏ {0}\nI ᴅᴏɴ'ᴛ ɴᴇᴇᴅ ᴀɴʏ ᴀᴅᴍɪɴ ᴘᴇʀᴍɪꜱꜱɪᴏɴ ᴛᴏ wᴏʀᴋ ( ᴜɴᴛɪʟ ᴀꜱᴋᴇᴅ ꜰᴏʀ ).ɪ ᴀᴍ ꜰʀᴇᴇ ꜰᴏʀ ᴀʟʟ . ꜱᴏ ʏᴏᴜ ᴄᴀɴ ᴜꜱᴇ ᴍᴇ ᴡɪᴛʜᴏᴜᴛ ᴀɴʏ ᴏᴡɴᴇʀ ᴘᴇʀᴍɪꜱꜱɪᴏɴ . ᴄʀᴇᴀᴛᴇᴅ ʙʏ  ƬЄ𝗔Μ ƲƉ𝗔ИƤƖЯ𝗔ƤƤƲ\nAꜱꜱɪꜱᴛᴀɴᴛ Uꜱᴇʀɴᴀᴍᴇ:- @{1}\nAꜱꜱɪꜱᴛᴀɴᴛ ID:- {2}"
+start_4 : "{0}'ꜱ Owɴᴇʀ[{1}] ʜᴀꜱ ᴊᴜꜱᴛ ᴊᴏɪɴᴇᴅ ʏᴏᴜʀ ᴄʜᴀᴛ."
+start_5 : "🐱‍👤A ᴍᴇᴍʙᴇʀ ᴏꜰ {0}'ꜱ Sᴜᴅᴏ Uꜱᴇʀ[{1}] ʜᴀꜱ ᴊᴜꜱᴛ ᴊᴏɪɴᴇᴅ ʏᴏᴜʀ ᴄʜᴀᴛ."
+start_6 : "❗️ Sᴜᴘᴇʀɢʀᴏᴜᴘ Nᴇᴇᴅᴇᴅ ❗️\nPʟᴇᴀꜱᴇ ᴄᴏɴᴠᴇʀᴛ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴛᴏ ꜱᴜᴘᴇʀɢʀᴏᴜᴘ ᴀɴᴅ ᴛʜᴇɴ ᴀᴅᴅ ᴍᴇ ʙᴀᴄᴋ.\n**Hᴏw ᴛᴏ ᴍᴀᴋᴇ ꜱᴜᴘᴇʀɢʀᴏᴜᴘ?\n✅ Mᴀᴋᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ'ꜱ ᴄʜᴀᴛ ʜɪꜱᴛᴏʀʏ **ᴠɪꜱɪʙʟᴇ ᴏɴᴄᴇ."
+start_7 : "**Bʟᴀᴄᴋʟɪꜱᴛᴇᴅ Cʜᴀᴛ**\nYᴏᴜ'ʀᴇ ᴄʜᴀᴛ ʜᴀꜱ ʙᴇᴇɴ blackʟɪꜱᴛᴇᴅ ʙʏ ᴛʜᴇ Bᴏᴛ. Pʟᴇᴀꜱᴇ ᴀꜱᴋ ᴀɴʏ SᴜᴅᴏUꜱᴇʀ ᴛᴏ wʜɪᴛᴇʟɪꜱᴛ ᴄʜᴀᴛ ꜰɪʀꜱᴛ. Cʜᴇᴄᴋ [Sᴜᴅᴏʟɪꜱᴛ ꜰʀᴏᴍ ʜᴇʀᴇ]({0})"
+
+# Help
+help_1 : "💜ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴꜱ ʙᴇʟᴏᴡ ꜰᴏʀ ᴍᴏʀᴇ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ. ɪꜰ ʏᴏᴜ'ʀᴇ ꜰᴀᴄɪɴɢ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ ɪɴ ᴄᴏᴍᴍᴀɴᴅ ʏᴏᴜ ᴄᴀɴ ᴄᴏɴᴛᴀᴄᴛ @ROWDY_OF_PLUS .\n\nᴀʟʟ ᴄᴏᴍᴍᴀɴᴅꜱ ᴄᴀɴ ʙᴇ ᴜꜱᴇᴅ ᴡɪᴛʜ: /"
+help_2 : "ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ ɪɴ ᴘᴍ ꜰᴏʀ ʜᴇʟᴘ🦋."
+
+# Settings
+setting_1 : "⚙️ Mᴜꜱɪᴄ Bᴏᴛ Sᴇᴛᴛɪɴɢꜱ**\n🖇**Gʀᴏᴜᴘ: {0}\n🔖Gʀᴏᴜᴘ ID: `{1}`\n📀Cʜᴏᴏꜱᴇ ᴛʜᴇ ꜰᴜɴᴄᴛɪᴏɴ ʙᴜᴛᴛᴏɴꜱ ꜰʀᴏᴍ ʙᴇʟᴏw wʜɪᴄʜ ʏᴏᴜ wᴀɴᴛ ᴛᴏ ᴇᴅɪᴛ ᴏʀ ᴄʜᴀɴɢᴇ."
+setting_3 : "⁉️ Wʜᴀᴛ ɪꜱ Tʜɪꜱ?\n1) Dɪʀᴇᴄᴛ: Pʟᴀʏꜱ ꜱᴇᴀʀᴄʜ ꞯᴜᴇʀɪᴇꜱ ᴅɪʀᴇᴄᴛʟʏ. Uꜱᴇ -ᴠ ᴛᴏ play ᴠɪᴅᴇᴏꜱ ɪɴ ᴅɪʀᴇᴄᴛ ᴍᴏᴅᴇ.\n2) Iɴʟɪɴᴇ: Rᴇᴛᴜʀɴꜱ Iɴʟɪɴᴇ Mᴀʀᴋᴜᴘ Bᴜᴛᴛᴏɴꜱ ꜰᴏʀ ᴄʜᴏᴏꜱɪɴɢ ʙᴇᴛwᴇᴇɴ ᴠɪᴅᴇᴏ & ᴀᴜᴅɪᴏ."
+setting_4 : "⁉️ Wʜᴀᴛ ɪꜱ Tʜɪꜱ?\n👥 Eᴠᴇʀʏᴏɴᴇ: Aɴʏᴏɴᴇ ᴄᴀɴ ᴜꜱᴇ ᴀᴅᴍɪɴ ᴄᴏᴍᴍᴀɴᴅꜱ(ꜱᴋɪᴘ, ᴘᴀᴜꜱᴇ, ʀᴇꜱᴜᴍᴇ ᴇᴛᴄ) ᴘʀᴇꜱᴇɴᴛ ɪɴ ᴛʜɪꜱ ɢʀᴏᴜᴘ.\n🙍 Aᴅᴍɪɴ Oɴʟʏ: Oɴʟʏ ᴀᴅᴍɪɴꜱ ᴀɴᴅ ᴀᴜᴛʜᴏʀɪzᴇᴅ ᴜꜱᴇʀꜱ ᴄᴀɴ ᴜꜱᴇ ᴀᴅᴍɪɴ ᴄᴏᴍᴍᴀɴᴅꜱ."
+setting_5 : "Nᴏ Aᴜᴛʜᴏʀɪzᴇᴅ Uꜱᴇʀꜱ Fᴏᴜɴᴅ\nYᴏᴜ ᴄᴀɴ ᴀʟʟᴏw ᴀɴʏ ɴᴏɴ-ᴀᴅᴍɪɴ ᴛᴏ ᴜꜱᴇ ᴍʏ ᴀᴅᴍɪɴ ᴄᴏᴍᴍᴀɴᴅꜱ ʙʏ /ᴀᴜᴛʜ ᴀɴᴅ ᴅᴇʟᴇᴛᴇ ʙʏ ᴜꜱɪɴɢ /ᴜɴᴀᴜᴛʜ"
+setting_9 : "⁉️ Wʜᴀᴛ ɪꜱ Tʜɪꜱ?\nWʜᴇɴ ᴀᴄᴛɪᴠᴀᴛᴇᴅ, Bᴏᴛ wɪʟʟ ᴅᴇʟᴇᴛᴇ ɪᴛꜱ ᴍᴇꜱꜱᴀɢᴇ ᴀꜰᴛᴇʀ {0} ᴛᴏ ᴍᴀᴋᴇ ʏᴏᴜʀ ᴄʜᴀᴛ ᴄʟᴇᴀɴ ᴀɴᴅ ᴄʟᴇᴀʀ."
+setting_10 : "⁉️ Wʜᴀᴛ ɪꜱ Tʜɪꜱ?\n1) Gʀᴏᴜᴘ: Pʟᴀʏꜱ ᴍᴜꜱɪᴄ ɪɴ ᴛʜᴇ ɢʀᴏᴜᴘ wʜᴇʀᴇ ᴛʜᴇ ᴄᴏᴍᴍᴀɴᴅ ɪꜱ ɢɪᴠᴇɴ .\n2) Cʜᴀɴɴᴇʟ: Pʟᴀʏꜱ ᴍᴜꜱɪᴄ ɪɴ ᴛʜᴇ ᴄʜᴀɴɴᴇʟ ʏᴏᴜ wᴀɴᴛ. Sᴇᴛ ᴄʜᴀɴɴᴇʟ ɪᴅ ᴠɪᴀ /channelplay"
+setting_11 : "⁉️ Wʜᴀᴛ ɪꜱ Tʜɪꜱ?\n1) Eᴠᴇʀʏᴏɴᴇ: Aɴʏᴏɴᴇ ᴘʀᴇꜱᴇɴᴛ ɪɴ ᴛʜɪꜱ ɢʀᴏᴜᴘ ᴄᴀɴ play ᴍᴜꜱɪᴄ ʜᴇʀᴇ.\n2) Aᴅᴍɪɴ Oɴʟʏ: Oɴʟʏ ᴀᴅᴍɪɴꜱ ᴄᴀɴ play ᴛʜᴇ ᴍᴜꜱɪᴄ ɪɴ ᴛʜɪꜱ ɢʀᴏᴜᴘ."
+setting_12 : "❌ Yᴏᴜ'ᴠᴇ ɴᴏ ᴄʜᴀɴɴᴇʟ ɪᴅ ᴅᴇꜰɪɴᴇᴅ ꜰᴏʀ ᴄʜᴀɴɴᴇʟ ᴍᴏᴅᴇ. Pʟᴇᴀꜱᴇ ᴅᴇꜰɪɴᴇ wɪᴛʜ /channelplay."
+setting_13 : "Cᴀɴ'ᴛ ᴄʜᴀɴɢᴇ play ᴍᴏᴅᴇ ɪɴ ᴀᴄᴛɪᴠᴇ ɢʀᴏᴜᴘ ᴄᴀʟʟ. Pʟᴇᴀꜱᴇ ꜱᴛᴏᴘ ᴛʜᴇ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ ꜰɪʀꜱᴛ wɪᴛʜ /stop."
+setting_14 : "⁉️ Wʜᴀᴛ ɪꜱ Tʜɪꜱ?\nWʜᴇɴ ᴀᴄᴛɪᴠᴀᴛᴇᴅ, Bᴏᴛ wɪʟʟ ᴅᴇʟᴇᴛᴇ ɪᴛꜱ ᴇxᴇᴄᴜᴛᴇᴅ ᴄᴏᴍᴍᴀɴᴅꜱ (/play, /pasue, /shuffle, /stop ᴇᴛᴄ) ɪᴍᴍᴇᴅɪᴀᴛᴇʟʏ.\nBᴏᴛ wɪʟʟ ʙᴇ ʀᴇꞯᴜɪʀɪɴɢ ᴅᴇʟᴇᴛᴇ ᴍᴇꜱꜱᴀɢᴇꜱ ᴀᴅᴍɪɴ ʀɪɢʜᴛ ꜰᴏʀ ᴛʜɪꜱ ᴛᴏ wᴏʀᴋ ᴘʀᴏᴘᴇʀʟʏ."
+setting_15 : "Fᴀɪʟᴇᴅ ᴛᴏ ʀᴇꜱᴏʟᴠᴇ ᴘᴇᴇʀ, Mᴀᴋᴇ ꜱᴜʀᴇ ʏᴏᴜ ʜᴀᴠᴇ ᴀᴅᴅᴇᴅ ʙᴏᴛ ɪɴ ʏᴏᴜʀ ᴄʜᴀɴɴᴇʟ ᴀɴᴅ ᴘʀᴏᴍᴏᴛᴇᴅ ɪᴛ ᴀꜱ ᴀᴅᴍɪɴ.\nTʀʏ setting /channelplay ᴀɢᴀɪɴ.."
+setting_16 : "⁉️ Wʜᴀᴛ ɪꜱ Tʜɪꜱ?\nWʜᴇɴ ᴀᴄᴛɪᴠᴀᴛᴇᴅ, Bᴏᴛ wɪʟʟ ꜱᴜɢɢᴇꜱᴛ ʏᴏᴜʀ ᴄʜᴀᴛ ɪɴ ᴇᴠᴇʀʏ 1-2 ʜᴏᴜʀ ᴀʙᴏᴜᴛ ʙᴏᴛ ᴄᴏᴍᴍᴀɴᴅꜱ (Hᴏw ᴛᴏ ᴜꜱᴇ ᴛʜᴇᴍ, wʜɪᴄʜ ᴀʀᴇ ᴛʜᴇ ᴄᴏᴍᴍᴀɴᴅꜱ ᴀɴᴅ ᴍᴀɴʏ ᴏᴛʜᴇʀ ᴛʜɪɴɢꜱ) ʀᴀɴᴅᴏᴍʟʏ."
+
+
+set_cb_1 : "⭕Gᴇᴛᴛɪɴɢ Aᴜᴅɪᴏ Qᴜᴀʟɪᴛʏ Pᴀɴᴇʟ..."
+set_cb_2 : "⭕Gᴇᴛᴛɪɴɢ Vɪᴅᴇᴏ Qᴜᴀʟɪᴛʏ Pᴀɴᴇʟ..."
+set_cb_3 : "⭕Gᴇᴛᴛɪɴɢ Aᴜᴛʜ Uꜱᴇʀꜱ Pᴀɴᴇʟ..."
+set_cb_4 : "⭕Gᴇᴛᴛɪɴɢ Pʟᴀʏ Mᴏᴅᴇ Pᴀɴᴇʟ..."
+set_cb_5 : "⭕Gᴇᴛᴛɪɴɢ Cʟᴇᴀɴ Mᴏᴅᴇ Pᴀɴᴇʟ..."
+set_cb_6 : "⭕Sᴇᴛᴛɪɴɢ ᴜᴘ ᴄʜᴀɴɢᴇꜱ."
+set_cb_7 : "⭕Gᴇᴛᴛɪɴɢ Aᴜᴛʜ Uꜱᴇʀꜱ Lɪꜱᴛ.. PLEASE WAIT."
+set_cb_8 : "⭕Gᴇᴛᴛɪɴɢ ʙᴀᴄᴋ.."
+
+# Misc
+ustats_1 : "🙁Nᴏ Uꜱᴇʀ Sᴛᴀᴛꜱ Fᴏᴜɴᴅ."
+ustats_2 : "Gʀᴇᴛᴛɪɴɢꜱ!, Yᴏᴜ ʜᴀᴠᴇ playᴇᴅ {0} ᴛʀᴀᴄᴋꜱ ᴛɪʟʟ ɴᴏw wɪᴛʜ ᴀ wʜᴏᴘping ᴄᴏᴜɴᴛ ᴏꜰ {1} ᴛɪᴍᴇꜱ.\n\nTᴏᴘ {2} playᴇᴅ ʙʏ ʏᴏᴜ:\n\n"
+
+gstats_1 : "✨Gᴇᴛᴛɪɴɢ Gʟᴏʙᴀʟ Sᴛᴀᴛꜱ, Tʜɪꜱ ᴄᴏᴜʟᴅ ᴛᴀᴋᴇ ꜱᴏᴍᴇ ᴛɪᴍᴇ..."
+gstats_2 : "🧐Nᴏ Sᴛᴀᴛꜱ Fᴏᴜɴᴅ."
+gstats_3 : "🎧Gᴇᴛᴛɪɴɢ Gʟᴏʙᴀʟ Tᴏᴘ 10 {0} ᴏɴ ᴛʜᴇ ʙᴏᴛ, Tʜɪꜱ ᴄᴏᴜʟᴅ ᴛᴀᴋᴇ ꜱᴏᴍᴇ ᴛɪᴍᴇ.."
+gstats_4 : "📚Tᴏᴛᴀʟ Qᴜᴇʀɪᴇꜱ ᴏɴ Bᴏᴛ: {0}\n{1} ʜᴀꜱ playᴇᴅ {2} ᴛʀᴀᴄᴋꜱ ᴛɪʟʟ ɴᴏw wɪᴛʜ ᴀ wʜᴏᴘping ᴄᴏᴜɴᴛ ᴏꜰ {3} ᴛɪᴍᴇꜱ.\n**Tᴏᴘ {4} Tʀᴀᴄᴋꜱ:\n"
+gstats_5 : "**Tᴏᴘ {0} Cʜᴀᴛꜱ ᴏꜰ {1}:**\n"
+gstats_6 : "**Tᴏᴘ {0} Uꜱᴇʀꜱ ᴏꜰ {1}:**\n"
+gstats_7 : "Tʜɪꜱ ᴄʜᴀᴛ ɢʀᴏᴜᴘ ʜᴀꜱ playᴇᴅ {0} ᴛʀᴀᴄᴋꜱ ᴛɪʟʟ ɴᴏw wɪᴛʜ ᴀ wʜᴏᴘping ᴄᴏᴜɴᴛ ᴏꜰ {1}** ᴛɪᴍᴇꜱ.\nTᴏᴘ {2} playᴇᴅ ʙʏ ᴛʜɪꜱ ᴄʜᴀᴛ ɢʀᴏᴜᴘ:\n"
+gstats_8 : "Gᴇᴛᴛɪɴɢ Bᴏᴛ'ꜱ ɢᴇɴᴇʀᴀʟ ꜱᴛᴀᴛꜱ ᴀɴᴅ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ.. Tʜɪꜱ ᴄᴏᴜʟᴅ ᴛᴀᴋᴇ ꜱᴏᴍᴇ ᴛɪᴍᴇ..."
+gstats_9 : "**GLOBAL TOP 10 STATS OF THE BOT**\nSᴇʟᴇᴄᴛ ᴛʜᴇ ʙᴜᴛᴛᴏɴꜱ ꜰʀᴏᴍ ʙᴇʟᴏw ꜰᴏʀ wʜɪᴄʜ ʏᴏᴜ wᴀɴᴛ ᴛᴏ ᴄʜᴇᴄᴋ ɢʟᴏʙᴀʟ ꜱᴛᴀᴛꜱ ꜰʀᴏᴍ ʙᴏᴛ'ꜱ ꜱᴇʀᴠᴇʀꜱ."
+gstats_10 : "**Gʟᴏʙᴀʟ Sᴛᴀᴛꜱ ᴏꜰ {0}**\nSᴇʟᴇᴄᴛ ᴛʜᴇ ʙᴜᴛᴛᴏɴꜱ ꜰʀᴏᴍ ʙᴇʟᴏw ꜰᴏʀ wʜɪᴄʜ ʏᴏᴜ wᴀɴᴛ ᴛᴏ ᴄʜᴇᴄᴋ ɢʟᴏʙᴀʟ ꜱᴛᴀᴛꜱ ꜰʀᴏᴍ ʙᴏᴛ'ꜱ ꜱᴇʀᴠᴇʀꜱ."
+gstats_11 : "**Gᴇɴᴇʀᴀʟ Sᴛᴀᴛꜱ ᴏꜰ {0}**\nSᴇʟᴇᴄᴛ ᴛʜᴇ ʙᴜᴛᴛᴏɴꜱ ꜰʀᴏᴍ ʙᴇʟᴏw ꜰᴏʀ wʜɪᴄʜ ʏᴏᴜ wᴀɴᴛ ᴛᴏ ᴄʜᴇᴄᴋ ɢʟᴏʙᴀʟ ꜱᴛᴀᴛꜱ ꜰʀᴏᴍ ʙᴏᴛ'ꜱ ꜱᴇʀᴠᴇʀꜱ.\nTᴏ ᴄʜᴇᴄᴋ ᴛᴏᴘ ᴛʀᴀᴄᴋꜱ, ᴄʜᴀᴛꜱ, ᴜꜱᴇʀꜱ ᴀɴᴅ ᴏᴛʜᴇʀ ꜱᴛᴜꜰꜰꜱ, ᴘʟᴇᴀꜱᴇ ᴜꜱᴇ /gstats"
+
+
+# Play 
+
+#Play Callback 
+playcb_1 : "ᴛʜɪꜱ ɪꜱ ɴᴏᴛ ʏᴏᴜ ᴀꜱᴋ 😳. ꜱᴏ ᴀꜱᴋ ᴍᴇ ʏᴏᴜʀ ᴏwɴ ᴍᴜꜱɪᴄ ʙʏ ᴜꜱɪɴɢ ᴍᴇ😇."
+playcb_2 : "ɢᴇᴛᴛɪɴɢ ᴍᴏʀᴇ ʀᴇꜱᴜʟᴛꜱ🤯"
+
+# Channel Play
+cplay_1 : "😇Yᴏᴜ ᴄᴀɴ play ᴍᴜꜱɪᴄ ɪɴ ᴄʜᴀɴɴᴇʟꜱ ꜰʀᴏᴍ ᴛʜɪꜱ ᴄʜᴀᴛ[{0}] ᴛᴏ ᴀɴʏ ᴄʜᴀɴɴᴇʟ ᴏʀ ʏᴏᴜʀ ᴄʜᴀᴛ'ꜱ ʟɪɴᴋᴇᴅ ᴄʜᴀɴɴᴇʟ.\n**Fᴏʀ ʟɪɴᴋᴇᴅ ᴄʜᴀɴɴᴇʟ:\n`/{1} ʟɪɴᴋᴇᴅ`\n**Fᴏʀ ᴀɴʏ ᴏᴛʜᴇʀ ᴄʜᴀɴɴᴇʟ:**\n`/{1} [Cʜᴀɴɴᴇʟ ID]`"
+cplay_2 : "🙁Tʜɪꜱ ᴄʜᴀᴛ ʜᴀꜱ ɴᴏ ʟɪɴᴋᴇᴅ ᴄʜᴀɴɴᴇʟ."
+cplay_3 : "🧐Cʜᴀɴɴᴇʟ Dᴇꜰɪɴᴇᴅ ᴛᴏ {0}\n__Channel ID__: {1}"
+cplay_4 : "☹Fᴀɪʟᴇᴅ ᴛᴏ ɢᴇᴛ ᴄʜᴀɴɴᴇʟ.\nMᴀᴋᴇ ꜱᴜʀᴇ ʏᴏᴜ ʜᴀᴠᴇ ᴀᴅᴅᴇᴅ ʙᴏᴛ ɪɴ ʏᴏᴜʀ ᴄʜᴀɴɴᴇʟ ᴀɴᴅ ᴘʀᴏᴍᴏᴛᴇᴅ ɪᴛ ᴀꜱ ᴀᴅᴍɪɴ.\nEᴅɪᴛ ᴏʀ Cʜᴀɴɢᴇ ᴄʜᴀɴɴᴇʟ ᴠɪᴀ /channelplay"
+cplay_5 : "🤕Oɴʟʏ Cʜᴀɴɴᴇʟꜱ ᴀʀᴇ ꜱᴜᴘᴘᴏʀᴛᴇᴅ."
+cplay_6 : "😐Yᴏᴜ ɴᴇᴇᴅ ᴛᴏ ʙᴇ ᴛʜᴇ **Owɴᴇʀ ᴏꜰ ᴛʜᴇ ᴄʜᴀɴɴᴇʟ[{0}] ᴛᴏ ᴄᴏɴɴᴇᴄᴛ ɪᴛ wɪᴛʜ ᴛʜɪꜱ ɢʀᴏᴜᴘ.\n**Cʜᴀɴɴᴇʟ'ꜱ Owɴᴇʀ:** @{1}\nAʟᴛᴇʀɴᴀᴛɪᴠᴇʟʏ ʏᴏᴜ ᴄᴀɴ ʟɪɴᴋ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴛᴏ ᴛʜᴀᴛ ᴄʜᴀɴɴᴇʟ ᴀɴᴅ ᴛʜᴇɴ ᴛʀʏ ᴄᴏɴɴɴᴇᴄᴛɪɴɢ wɪᴛʜ /channelplay ʟɪɴᴋᴇᴅ"
+
+#Play
+play_1 : "ᴏꜰꜰɪᴄɪᴀʟ Qᴜᴇᴇɴ 👸 ᴘʀᴏᴄᴇꜱꜱɪɴɢ ʏᴏᴜʀ Qᴜᴇʀʏ🧐... ᴘʟᴇᴀꜱᴇ ᴡᴀɪᴛ ᴜɴᴛɪʟ💕 !"
+play_2 : "🏷Cʜᴀɴɴᴇʟ Pʟᴀʏ Mᴏᴅᴇ**\n\n\n ᴏꜰꜰɪᴄɪᴀʟ Qᴜᴇᴇɴ 👸 ᴘʀᴏᴄᴇꜱꜱɪɴɢ ʏᴏᴜʀ Qᴜᴇʀʏ... ᴘʟᴇᴀꜱᴇ ᴡᴀɪᴛ 💕!\n\n**Lɪɴᴋᴇᴅ Cʜᴀɴɴᴇʟ: {0}"
+play_3 : "🥺Fᴀɪʟᴇᴅ ᴛᴏ Pʀᴏᴄᴇꜱꜱ Qᴜᴇʀʏ!"
+play_4 : "🖇 Aᴅᴍɪɴꜱ Oɴʟʏ Pʟᴀʏ**\n\nOɴʟʏ Aᴅᴍɪɴꜱ ᴀɴᴅ Aᴜᴛʜ Uꜱᴇʀꜱ ᴄᴀɴ play ᴍᴜꜱɪᴄ ɪɴ ᴛʜɪꜱ ɢʀᴏᴜᴘ.\n\nCʜᴀɴɢᴇ ᴍᴏᴅᴇ ᴠɪᴀ /playmode ᴀɴᴅ ɪꜰ ʏᴏᴜ'ʀᴇ ᴀʟʀᴇᴀᴅʏ ᴀᴅᴍɪɴ, ʀᴇʟᴏᴀᴅ ᴀᴅᴍɪɴᴄᴀᴄʜᴇ ᴠɪᴀ /admincache"
+play_5 : "🤕Fᴀɪʟᴇᴅ ᴛᴏ ᴘʀᴏᴄᴇꜱꜱ ᴀᴜᴅɪᴏ ꜰɪʟᴇ.\n\nAᴜᴅɪᴏ Fɪʟᴇ Sɪzᴇ Sʜᴏᴜʟᴅ Bᴇ Lᴇꜱꜱ Tʜᴀɴ 100 ᴍʙ"
+play_6 : "**Dᴜʀᴀᴛɪᴏɴ Lɪᴍɪᴛ Exᴄᴇᴇᴅᴇᴅ**\n\n**Aʟʟᴏwᴇᴅ Dᴜʀᴀᴛɪᴏɴ: {0} ᴍɪɴᴜᴛᴇ(ꜱ)\n\n**Rᴇᴄᴇɪᴠᴇᴅ Dᴜʀᴀᴛɪᴏɴ: {1} ʜᴏᴜʀ(ꜱ)"
+play_7 : "🥺Sᴏʀʀʏ! Bᴏᴛ ᴏɴʟʏ ᴀʟʟᴏwꜱ ʟɪᴍɪᴛᴇᴅ ɴᴜᴍʙᴇʀ ᴏꜰ ᴠɪᴅᴇᴏ ᴄᴀʟʟꜱ ᴅᴜᴇ ᴛᴏ CPU ᴏᴠᴇʀʟᴏᴀᴅ ɪꜱꜱᴜᴇꜱ. Mᴀɴʏ ᴏᴛʜᴇʀ ᴄʜᴀᴛꜱ ᴀʀᴇ ᴜꜱɪɴɢ ᴠɪᴅᴇᴏ ᴄᴀʟʟ ʀɪɢʜᴛ ɴᴏw. Tʀʏ ꜱwɪᴛᴄʜɪɴɢ ᴛᴏ ᴀᴜᴅɪᴏ ᴏʀ ᴛʀʏ ᴀɢᴀɪɴ ʟᴀᴛᴇʀ"
+play_8 : "😐Nᴏᴛ A Vᴀʟɪᴅ Vɪᴅᴇᴏ Fɪʟᴇ Exᴛᴇɴꜱɪᴏɴ!\n\n**Sᴜᴘᴘᴏʀᴛᴇᴅ Fᴏʀᴍᴀᴛꜱ: {0}"
+play_9 : "😑Vɪᴅᴇᴏ Fɪʟᴇ Sɪzᴇ Sʜᴏᴜʟᴅ Bᴇ Lᴇꜱꜱ Tʜᴀɴ 1 GɪB"
+play_10 : "✨Yᴏᴜᴛᴜʙᴇ Pʟᴀʏʟɪꜱᴛ Fᴇᴀᴛᴜʀᴇ**\n\nSᴇʟᴇᴄᴛ ᴛʜᴇ Mᴏᴅᴇ ɪɴ wʜɪᴄʜ ʏᴏᴜ wᴀɴᴛ ᴛᴏ play wʜᴏʟᴇ Yᴏᴜᴛᴜʙᴇ Pʟᴀʏʟɪꜱᴛ"
+play_11 : "📎Tɪᴛʟᴇ: {0}\n\n⏳Dᴜʀᴀᴛɪᴏɴ: {1} Mɪɴꜱ"
+play_12 : "**🎧Sᴘᴏᴛɪꜰʏ Pʟᴀʏ Mᴏᴅᴇ**\n\nʀᴇQᴜᴇꜱᴛ ʙʏ : - {0}"
+play_13 : "**🎧Aᴘᴘʟᴇ Pʟᴀʏʟɪꜱᴛꜱ**\n\nʀᴇQᴜᴇꜱᴛ ʙʏ : - {0}"
+play_14 : "**🤯Uɴᴀʙʟᴇ ᴛᴏ ᴠᴇʀɪꜰʏ ᴛʜᴇ URL.**\n\nBᴏᴛ wᴏɴᴅᴇʀꜱ ɪꜰ ᴛʜɪꜱ ᴜʀʟ ʙᴇʟᴏɴɢꜱ ᴛᴏ ᴀɴʏ ᴏꜰ ᴛʜᴇ ꜰᴏʟʟᴏwɪɴɢ ᴘʟᴀᴛꜰᴏʀᴍꜱ: Yᴏᴜᴛᴜʙᴇ, AᴘᴘʟᴇMᴜꜱɪᴄ, Sᴘᴏᴛɪꜰʏ, Rᴇꜱꜱᴏ ᴀɴᴅ Sᴏᴜɴᴅᴄʟᴏᴜᴅ.\n\nYᴏᴜ ᴄᴀɴ ᴜꜱᴇ /stream ꜰᴏʀ M3ᴜ8 ᴏʀ Rᴇᴍᴏᴛᴇ Lɪɴᴋꜱ."
+play_15 : "**◀Lɪᴠᴇ Sᴛʀᴇᴀᴍ Dᴇᴛᴇᴄᴛᴇᴅ**\n\nSʏꜱᴛᴇᴍꜱ ʜᴀᴠᴇ ᴅᴇᴛᴇᴄᴛᴇᴅ ʏᴏᴜʀ ᴛʀᴀᴄᴋ ʟɪɴᴋ ᴀꜱ ʟɪᴠᴇ strᴇᴀᴍ. Wᴀɴᴛ ᴛᴏ play ʟɪᴠᴇ strᴇᴀᴍ ?"
+play_16 : "🤐Fᴀɪʟᴇᴅ ᴛᴏ ꜰᴇᴛᴄʜ ᴛʀᴀᴄᴋ ᴅᴇᴛᴀɪʟꜱ. Tʀʏ playɪɴɢ ᴀɴʏ ᴏᴛʜᴇʀ."
+play_17 : "🤯Uɴᴀʙʟᴇ ᴛᴏ play ᴛʜɪꜱ ᴛʏᴘᴇ ᴏꜰ ꜱᴘᴏᴛɪꜰʏ ꞯᴜᴇʀʏ!\n\nI ᴄᴀɴ ᴏɴʟʏ play ꜱᴘᴏᴛɪꜰʏ ᴛʀᴀᴄᴋꜱ, ᴀʟʙᴜᴍꜱ, ᴀʀᴛɪꜱᴛꜱ ᴀɴᴅ playʟɪꜱᴛꜱ"
+play_18 : "**🙄Nᴏ Aᴄᴛɪᴠᴇ Vᴏɪᴄᴇ Cʜᴀᴛ Fᴏᴜɴᴅ**\n\nTᴏ ᴜꜱᴇ ꜰᴏʀᴄᴇ play, ᴛʜᴇʀᴇ ᴍᴜꜱᴛ ʙᴇ ᴀɴ ᴀᴄᴛɪᴠᴇ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ ɢᴏɪɴɢ ᴏɴ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ. **Fᴏʀᴄᴇ Pʟᴀʏ ꜱᴛᴏᴘꜱ ᴛʜᴇ playɪɴɢ ᴛʀᴀᴄᴋ ᴏɴ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ ᴀɴᴅ ꜱᴛᴀʀᴛꜱ playɪɴɢ ᴛʜᴇ ꜱᴇᴀʀᴄʜᴇᴅ ᴛʀᴀᴄᴋ ɪɴꜱᴛᴀɴᴛʟʏ wɪᴛʜᴏᴜᴛ ᴅɪꜱᴛᴜʀʙɪɴɢ/ᴄʟᴇᴀʀɪɴɢ queue."
+
+#Playlist
+playlist_1 : "🦋 Uꜱᴀɢᴇ: /play [Mᴜꜱɪᴄ Nᴀᴍᴇ ᴏʀ Yᴏᴜᴛᴜʙᴇ Lɪɴᴋ ᴏʀ Rᴇᴘʟʏ ᴛᴏ Aᴜᴅɪᴏ]\n\nIꜰ ʏᴏᴜ wᴀɴᴛ ᴛᴏ ᴘʟᴀʏ Bᴏᴛ'ꜱ Sᴇʀᴠᴇʀ Pʟᴀʏʟɪꜱᴛ! Pʀᴇꜱꜱ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏw ⬇."
+playlist_2 : "💚 Gᴇᴛᴛɪɴɢ ʏᴏᴜʀ playlist. Pʟᴇᴀꜱᴇ wᴀɪᴛ"
+playlist_3 : "😕 Yᴏᴜ ʜᴀᴠᴇ ɴᴏ playlist ᴏɴ Bᴏᴛ'ꜱ Sᴇʀᴠᴇʀ."
+playlist_4 : "✅ Fᴇᴛᴄʜᴇᴅ Pʟᴀʏʟɪꜱᴛ:\n\n"
+playlist_5 :  "  ⭕  Dᴜʀᴀᴛɪᴏɴ- {0} Mɪɴꜱ"
+playlist_6 : "🦋 Cᴏɴᴛᴀᴄᴛ ᴍᴇ ɪɴ PM ꜰᴏʀ ᴅᴇʟᴇᴛɪᴏɴ ᴏꜰ Pʟᴀʏʟɪꜱᴛꜱ."
+playlist_7 : "Tʀᴀᴄᴋꜱ Iɴꜱɪᴅᴇ Pʟᴀʏʟɪꜱᴛ: {0}\n\nPʀᴇꜱꜱ ᴛʜᴇ Bᴜᴛᴛᴏɴꜱ ᴛᴏ ᴅᴇʟᴇᴛᴇ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴛʀᴀᴄᴋ ɪɴ ʏᴏᴜʀ playlist.\n\nTᴏ ᴅᴇʟᴇᴛᴇ wʜᴏʟᴇ playlist: Pʀᴇꜱꜱ Dᴇʟ Wʜᴏʟᴇ Pʟᴀʏʟɪꜱᴛ ʙᴜᴛᴛᴏɴ."
+playlist_8 : "Aʟʀᴇᴀᴅʏ Exɪꜱᴛꜱ\n\nTʜɪꜱ ᴛʀᴀᴄᴋ ᴇxɪꜱᴛꜱ ɪɴ ʏᴏᴜʀ playlist."
+playlist_9 : "😕 Sᴏʀʀʏ! Yᴏᴜ ᴄᴀɴ ᴏɴʟʏ ʜᴀᴠᴇ {0} ᴍᴜꜱɪᴄ ɪɴ ᴀ playlist."
+playlist_10 : "➕ Pʟᴀʏʟɪꜱᴛ Aᴅᴅɪᴛɪᴏɴ\n\n{0}\n\nᴀᴅᴅᴇᴅ ᴛᴏ ʏᴏᴜʀ playlist✅."
+playlist_11 : "Sᴜᴄᴄᴇꜱꜱꜰᴜʟʟʏ ᴅᴇʟᴇᴛᴇᴅ ʏᴏᴜʀ ᴛʀᴀᴄᴋ ✅."
+playlist_12 : "Fᴀɪʟᴇᴅ ᴛᴏ ᴅᴇʟᴇᴛᴇ ʏᴏᴜʀ ᴛʀᴀᴄᴋ ❌."
+playlist_13 : "Dᴇʟᴇᴛᴇᴅ ʏᴏᴜʀ wʜᴏʟᴇ playlistꜱ ꜰʀᴏᴍ ᴛʜᴇ ꜱᴇʀᴠᴇʀ ✅. "
+playlist_14 : "Aʀᴇ ʏᴏᴜ Sᴜʀᴇ ʏᴏᴜ wᴀɴᴛ ᴛᴏ ᴅᴇʟᴇᴛᴇ ʏᴏᴜʀ wʜᴏʟᴇ playlist?**\n\nYᴏᴜ'ʟʟ ʟᴏꜱᴛ ʏᴏᴜʀ playlist ᴀɴᴅ ᴛʜɪꜱ ᴄᴀɴ'ᴛ ʙᴇ ʀᴇᴄᴏᴠᴇʀᴇᴅ ʟᴀᴛᴇʀ."
+playlist_15 : "➡ [Cʜᴇᴄᴋᴏᴜᴛ Wʜᴏʟᴇ Pʟᴀʏʟɪꜱᴛ]({0})"
+playlist_16 : "➕ 🎧 ➕ Qᴜᴇᴜᴇᴅ Pʟᴀʏʟɪꜱᴛ:"
+playlist_17 : "➕ 📜 ➕ Qᴜᴇᴜᴇᴅ Pᴏꜱɪᴛɪᴏɴ-"
+playlist_18 : "[Cʜᴇᴄᴋᴏᴜᴛ Wʜᴏʟᴇ Qᴜᴇᴜᴇᴅ Pʟᴀʏʟɪꜱᴛ]({0})\n\nLᴀꜱᴛ Qᴜᴇᴜᴇᴅ Pᴏꜱɪᴛɪᴏɴ : {1}**"
+
+#Playmode
+playmode_1 : "📚 Sᴇʟᴇᴄᴛ ᴛʜᴇ ᴍᴏᴅᴇ ɪɴ wʜɪᴄʜ ʏᴏᴜ wᴀɴᴛ ᴛᴏ ᴘʟᴀʏ ᴛʜᴇ ꞯᴜᴇʀɪᴇꜱ ɪɴꜱɪᴅᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ[{0}]."
+playmode_2 : "✅ Sᴇᴛᴛɪɴɢꜱ ᴄʜᴀɴɢᴇᴅ ᴀɴᴅ ꜱᴀᴠᴇᴅ ꜱᴜᴄᴄᴇꜱꜱꜰᴜʟʟʏ ʙʏ {0}"
+
+#Stream 
+str_1 : "📚Pʟᴇᴀꜱᴇ Pʀᴏᴠɪᴅᴇ M3ᴜ8 Lɪɴᴋꜱ ᴏʀ Iɴᴅᴇx Lɪɴᴋꜱ."
+str_2 : "✅ Vᴀʟɪᴅ Sᴛʀᴇᴀᴍ Vᴇʀɪꜰɪᴇᴅ\n\nPʟᴇᴀꜱᴇ wᴀɪᴛ ᴘʀᴏᴄᴇꜱꜱɪɴɢ ʟɪɴᴋ.."
+str_3 : "👀 Uɴᴀʙʟᴇ ᴛᴏ strᴇᴀᴍ ʏᴏᴜᴛᴜʙᴇ ʟɪᴠᴇ strᴇᴀᴍꜱ. Nᴏ Lɪᴠᴇ Fᴏʀᴍᴀᴛ Fᴏᴜɴᴅ"
+
+#TopPlay
+tracks_1 : "**🔂Pʀᴏᴄᴇꜱꜱɪɴɢ {0} Tᴏᴘ 10 Pʟᴀʏʟɪꜱᴛ**\n\nTʜɪꜱ ᴄᴏᴜʟᴅ ᴛᴀᴋᴇ ꜱᴏᴍᴇ ᴍɪɴꜱ(ᴀʀᴏᴜɴᴅ 3-4 ᴍɪɴꜱ).. Pʟᴇᴀꜱᴇ Wᴀɪᴛ...\n\n**✨ʀᴇQᴜᴇꜱᴛ ʙʏ : ** {1}\n\nCʜᴇᴄᴋ Tᴏᴘ 10 ᴛʀᴀᴄᴋꜱ ʙʏ /gstats"
+tracks_2 : "**❌Eʀʀᴏʀ**\n\nTʜᴇʀᴇ'ꜱ ɴᴏ {0} Tᴏᴘ 10 Pʟᴀʏʟɪꜱᴛ ᴏɴ ʙᴏᴛ'ꜱ ꜱᴇʀᴠᴇʀꜱ😶. Pʟᴇᴀꜱᴇ ᴛʀʏ ᴀɴʏ ᴏᴛʜᴇʀ ᴘʟᴀʏʟɪꜱᴛ💚"
+
+# TOOLS
+
+#Lyrics
+lyrics_1 : "🦋 Uꜱᴀɢᴇ:** /lyrics [ Mᴜꜱɪᴄ Nᴀᴍᴇ]"
+lyrics_2 : "🧐 Sᴇᴀʀᴄʜɪɴɢ Lʏʀɪᴄꜱ"
+lyrics_3 : "OMG 😳 Fᴀɪʟᴇᴅ ᴛᴏ ꜰᴇᴛᴄʜ lyrics😭.\n\n📀**Tʀɪᴇᴅ Sᴇᴀʀᴄʜɪɴɢ Fᴏʀ: {0}"
+lyrics_4 : "Cʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏw ⬇ ᴀɴᴅ ɢᴇᴛ ꜱᴇᴀʀᴄʜᴇᴅ lyrics ᴛᴏ ᴀᴠᴏɪᴅ ʟᴏɴɢ ꜱᴘᴀᴍ ᴛʏᴘᴇꜱ lyrics ꜱᴇᴀʀᴄʜ."
+
+#Ping
+ping_1 : "🥳Bᴏᴏᴏᴍ🎉🎊!!!!"
+ping_2 : "{0} ɪꜱ wᴏʀᴋɪɴɢ ɢᴏᴏᴅ wɪᴛʜ ᴀ ping ᴏꜰ {1} ᴍꜱ.\n\nBᴏᴛ'ꜱ ᴜᴘᴛɪᴍᴇ ɪꜱ {2} ᴀɴᴅ ʜᴀꜱ ᴜꜱᴇᴅ ᴀ ᴛᴏᴛᴀʟ ᴏꜰ {3} ꜱᴇʀᴠᴇʀ'ꜱ ꜱᴛᴏʀᴀɢᴇ. Cᴘᴜ ʟᴏᴀᴅ ɪꜱ ᴀʙᴏᴜᴛ {4} wɪᴛʜ ᴀ ᴄᴏɴꜱᴜᴍᴘᴛɪᴏɴ ᴏꜰ {5} Rᴀᴍ. Pʏ-Tɢᴄᴀʟʟꜱ ᴄʟɪᴇɴᴛ ɪꜱ ᴀʟꜱᴏ ʜᴀᴠɪɴɢ ᴀ ɢᴏᴏᴅ ping ᴏꜰ {6} ᴍꜱ.\n 🤴ᴍʏ ᴏᴡɴᴇʀ : [ᴛɪᴍᴇ ᴛʀᴀᴠᴇʟʟᴇʀ](https://t.me/ROWDY_OF_PLUS) . ꜱᴜᴘᴘᴏʀᴛ ᴜꜱ 🤝: [ƲƉ𝗔ИƤƖЯ𝗔ƤƤƲ _ Ǥ𝗔ИǤƧ _ ǤЯѲƲƤ](https://t.me/gangs_for_udanpirappu)"
+
+
+# Song
+song_1 : "Yᴏᴜ ᴄᴀɴ ᴅᴏwɴʟᴏᴀᴅ Mᴜꜱɪᴄ ᴏʀ Vɪᴅᴇᴏ ꜰʀᴏᴍ YᴏᴜTᴜʙᴇ ᴏɴʟʏ ɪɴ ᴘʀɪᴠᴀᴛᴇ ᴄʜᴀᴛ 😁. Pʟᴇᴀꜱᴇ ꜱᴛᴀʀᴛ ᴍᴇ ɪɴ ᴘʀɪᴠᴀᴛᴇ ᴄʜᴀᴛ😘."
+song_2 : "🦋Uꜱᴀɢᴇ:**\n\n/song [Mᴜꜱɪᴄ Nᴀᴍᴇ] ᴏʀ [Yᴏᴜᴛᴜʙᴇ Lɪɴᴋ]"
+song_3 : "😑Lɪᴠᴇ Lɪɴᴋ Dᴇᴛᴇᴄᴛᴇᴅ. I ᴀᴍ ɴᴏᴛ ᴀʙʟᴇ ᴛᴏ ᴅᴏwɴʟᴏᴀᴅ ʟɪᴠᴇ ʏᴏᴜᴛᴜʙᴇ ᴠɪᴅᴇᴏꜱ. "
+song_4 : "🔗Tɪᴛʟᴇ:- {0}\n\nSᴇʟᴇᴄᴛ ᴛʜᴇ ᴛʏᴘᴇ ɪɴ wʜɪᴄʜ ʏᴏᴜ wᴀɴᴛ ᴛᴏ ᴅᴏwɴʟᴏᴀᴅ."
+song_5 : "Nᴏᴛ ᴀ ᴠᴀʟɪᴅ Yᴏᴜᴛᴜʙᴇ Lɪɴᴋ ❌"
+song_6 : "🛠 Gᴇᴛᴛɪɴɢ Fᴏʀᴍᴀᴛꜱ.. \n\nPʟᴇᴀꜱᴇ Wᴀɪᴛ 💚.."
+song_7 : "☹Fᴀɪʟᴇᴅ ᴛᴏ ɢᴇᴛ ᴀᴠᴀɪʟᴀʙʟᴇ ꜰᴏʀᴍᴀᴛꜱ ꜰᴏʀ ᴛʜᴇ ᴠɪᴅᴇᴏ. Pʟᴇᴀꜱᴇ ᴛʀʏ ᴀɴʏ ᴏᴛʜᴇʀ ᴛʀᴀᴄᴋ."
+song_8 : "🎈✔Dᴏwɴʟᴏᴀᴅ Sᴛᴀʀᴛᴇᴅ\n\nDᴏwɴʟᴏᴀᴅɪɴɢ ꜱᴘᴇᴇᴅ ᴄᴏᴜʟᴅ ʙᴇ ꜱʟᴏw. Pʟᴇᴀꜱᴇ ʜᴏʟᴅ ᴏɴ.."
+song_9 : "🥴Fᴀɪʟᴇᴅ ᴛᴏ ᴅᴏwɴʟᴏᴀᴅ song ꜰʀᴏᴍ Yᴏᴜᴛᴜʙᴇ-DL\n\n**Rᴇᴀꜱᴏɴ: {0}"
+song_10 : "🥴Fᴀɪʟᴇᴅ ᴛᴏ ᴜᴘʟᴏᴀᴅ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ꜰʀᴏᴍ ꜱᴇʀᴠᴇʀꜱ."
+song_11 : "⏰Uᴘʟᴏᴀᴅɪɴɢ Sᴛᴀʀᴛᴇᴅ\n\nUᴘʟᴏᴀᴅɪɴɢ ꜱᴘᴇᴇᴅ ᴄᴏᴜʟᴅ ʙᴇ ꜱʟᴏw. Pʟᴇᴀꜱᴇ ʜᴏʟᴅ ᴏɴ.."
+
+# Tools - Queue
+queue_1 : "Pʟᴇᴀꜱᴇ Wᴀɪᴛ💚..Fᴇᴛᴄʜɪɴɢ Qᴜᴇᴜᴇ👨‍💻.."
+queue_2 : "Qᴜᴇᴜᴇᴅ Lɪꜱᴛ ɪꜱ ᴇᴍᴘᴛʏ. Nᴏ ᴛʀᴀᴄᴋꜱ ꜰᴏᴜɴᴅ❌"
+queue_3 : "<ᴜ>Qᴜᴇᴜᴇᴅ Tʀᴀᴄᴋꜱ:</ᴜ>  [Cʜᴇᴄᴋᴏᴜᴛ Mᴏʀᴇ Qᴜᴇᴜᴇᴅ Tʀᴀᴄᴋꜱ Fʀᴏᴍ Hᴇʀᴇ]({0})"
+queue_4 : "⏳ Aᴅᴅᴇᴅ ᴛᴏ Qᴜᴇᴜᴇ ᴀᴛ #{0}\n\n📀Tɪᴛʟᴇ: {1}\n\n**⏱Dᴜʀᴀᴛɪᴏɴ: {2}\n\n✨**Aᴅᴅᴇᴅ Bʏ: {3}"
+queue_5 : "Oɴʟʏ ᴏɴᴇ ᴛʀᴀᴄᴋ ɪɴꜱɪᴅᴇ queue, Pʟᴇᴀꜱᴇ ᴀᴅᴅ ꜱᴏᴍᴇ ᴍᴏʀᴇ ᴛᴏ ᴄʜᴇᴄᴋ ʟɪꜱᴛ ➕ 🎧 ➕"
+
+# All Streaming Lines
+stream_1 : "🎊 **ᴡᴏᴡ ᴏꜰꜰɪᴄɪᴀʟ Qᴜᴇᴇɴ ᴀᴄᴄᴇᴘᴛ ʏᴏᴜʀ ʀᴇQᴜᴇꜱᴛ 🥳 \n\n Nᴏw ᴇɴᴊᴏʏ ʏᴏᴜʀ wɪꜱʜ 🦋 😇 🦋** \n\n✨**ʀᴇQᴜᴇꜱᴛ ʙʏ : ** {0} \n\n 🎈**ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ: **[ᴄʟɪᴄᴋ ᴍᴇ]({1})\n\n**👨‍💻ᴘᴏᴡᴇʀᴇᴅ ʙʏ** : [🐉 ƲƉ𝗔ИƤƖЯ𝗔ƤƤƲ _ Ǥ𝗔ИǤƧ _ ǤЯѲƲƤ 🐉](https://t.me/gangs_for_udanpirappu)"
+stream_2 : "🎊 **ᴡᴏᴡ ᴏꜰꜰɪᴄɪᴀʟ Qᴜᴇᴇɴ ᴀᴄᴄᴇᴘᴛ ʏᴏᴜʀ ʀᴇQᴜᴇꜱᴛ 🥳 \n\n Nᴏw ᴇɴᴊᴏʏ ʏᴏᴜʀ wɪꜱʜ 🦋 😇 🦋 via URL ** \n\n✨**ʀᴇQᴜᴇꜱᴛ ʙʏ : ** {0}\n\n**👨‍💻ᴘᴏᴡᴇʀᴇᴅ ʙʏ** : [🐉 ƲƉ𝗔ИƤƖЯ𝗔ƤƤƲ _ Ǥ𝗔ИǤƧ _ ǤЯѲƲƤ 🐉](https://t.me/gangs_for_udanpirappu)"
+stream_3 : "🎊 **ᴡᴏᴡ ᴏꜰꜰɪᴄɪᴀʟ Qᴜᴇᴇɴ ᴀᴄᴄᴇᴘᴛ ʏᴏᴜʀ ʀᴇQᴜᴇꜱᴛ 🥳 \n\n Nᴏw ᴇɴᴊᴏʏ ʏᴏᴜʀ wɪꜱʜ 🦋 😇 🦋** \n\n**🏷Title:** {0}\n⌛️**Duration**: {1}\n✨**ʀᴇQᴜᴇꜱᴛ ʙʏ : ** {2}\n\n**👨‍💻ᴘᴏᴡᴇʀᴇᴅ ʙʏ** : [🐉 ƲƉ𝗔ИƤƖЯ𝗔ƤƤƲ _ Ǥ𝗔ИǤƧ _ ǤЯѲƲƤ 🐉](https://t.me/gangs_for_udanpirappu)"
+stream_4 : "🎊 **ᴡᴏᴡ ᴏꜰꜰɪᴄɪᴀʟ Qᴜᴇᴇɴ ᴀᴄᴄᴇᴘᴛ ʏᴏᴜʀ ʀᴇQᴜᴇꜱᴛ 🥳 \n\n Nᴏw ᴇɴᴊᴏʏ ʏᴏᴜʀ wɪꜱʜ 🦋 😇 🦋** \n\n**🏷Title:** [{0}]({1})\n⌛️**Duration**: {2}\n✨**ʀᴇQᴜᴇꜱᴛ ʙʏ : ** {3}\n\n**👨‍💻ᴘᴏᴡᴇʀᴇᴅ ʙʏ** : [🐉 ƲƉ𝗔ИƤƖЯ𝗔ƤƤƲ _ Ǥ𝗔ИǤƧ _ ǤЯѲƲƤ 🐉](https://t.me/gangs_for_udanpirappu)"
+
+# Inline Buttons
+
+#General Buttons
+CLOSE_BUTTON  : "🍃 Cʟᴏꜱᴇ 🍃"
+CLOSEMENU_BUTTON  : "🍃 Cʟᴏꜱᴇ 🍃"
+BACK_BUTTON : "☘️ Bᴀᴄᴋ ☘️ "
+UNBAN_BUTTON : "🥺 Uɴʙᴀɴ Mʏ Aꜱꜱɪꜱᴛᴀɴᴛ 🥺"
+
+#Lyrics
+L_B_1 : "📝 Cʜᴇᴄᴋᴏᴜᴛ Lʏʀɪᴄꜱ Nᴏw 📝"
+
+# Start
+S_B_1 : "🦋 Cᴏᴍᴍᴀɴᴅꜱ 🦋"
+S_B_2 : "🍀 ꜱᴇᴛᴛɪɴɢꜱ 🍀"
+S_B_3 : "🍀 ꜱᴜᴘᴘᴏʀᴛ 🍀"
+S_B_4 : "🍀 ᴄʜᴀɴɴᴇʟ 🍀"
+S_B_5 : "✚ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ 🦋"
+S_B_6 : "📀 ɢɪᴛ ʀᴇᴘᴏ"
+S_B_7 : "🦋 ᴛɪᴍᴇ ᴛʀᴀᴠᴇʟʟᴇʀ 🦋"
+S_B_8 : "🍀 ᴄᴏᴍᴍᴀɴᴅꜱ ᴍᴇɴᴜ 🍀."
+
+#Help 
+H_B_1 : "🍂 ᴀᴅᴍɪɴ ᴄᴏᴍᴍᴀɴᴅꜱ 🍂"
+H_B_2 : "🍂 ᴘʟᴀʏ ᴄᴏᴍᴍᴀɴᴅꜱ 🍂"
+H_B_3 : "🍂 ʙᴏᴛ ᴄᴏᴍᴍᴀɴᴅꜱ 🍂"
+H_B_4 : "🍂 ᴇxᴛʀᴀ ᴄᴏᴍᴍᴀɴᴅꜱ 🍂"
+H_B_5 : "🍃 Cʟᴏꜱᴇ Mᴇɴᴜ 🍃"
+H_B_6 : "🍂 ꜱᴜᴅᴏ ᴜꜱᴇʀꜱ ᴄᴏᴍᴍᴀɴᴅ 🍂 "
+
+#PlayMode
+PM_B_1 : "🦚 ᴘʟᴀʏ ᴛʜᴇ ʀᴇꞯᴜᴇꜱᴛ ʙʏ  ᴅɪʀᴇᴄᴛʟʏ 🦚"
+PM_B_2 : "🐉 ᴍᴀᴋᴇ ᴀ IɴʟɪɴᴇMᴀʀᴋᴜᴘ ᴀɴᴅ ᴘʟᴀʏ 🐉"
+PM_B_3 : "🌱 ᴘʟᴀʏ ɪɴ ᴄʜᴀɴɴᴇʟ 🌱"
+
+#Play
+P_B_1 : "🍁 Pʟᴀʏ Aᴜᴅɪᴏ 🍁"
+P_B_2 : "🍁 Pʟᴀʏ Vɪᴅᴇᴏ 🍁"
+P_B_3 : "🍁 Sᴛᴀʀᴛ Lɪᴠᴇ Sᴛʀᴇᴀᴍ 🍁"
+P_B_4 : "🍁 Pʟᴀʏ Pʟᴀʏʟɪꜱᴛ 🍁"
+
+#Playlist
+PL_B_1 : "✨ᴘʟᴀʏ ᴍʏ ᴘʟᴀʏʟɪꜱᴛ ✨"
+PL_B_2 : "ıllıllı ᴀᴅᴅ ᴛʜɪꜱ ꜱᴏɴɢ ɪɴ ᴘʟᴀʏʟɪꜱᴛꜱ ıllıllı"
+PL_B_3 : "ıllıllı ᴍᴏʀᴇ ᴍᴇɴᴜ ıllıllı"
+PL_B_4 : "✨ Pʟᴀʏ Mᴏᴅᴇ ✨"
+PL_B_5 : "🥀 Dᴇʟᴇᴛᴇ Wʜᴏʟᴇ Pʟᴀʏʟɪꜱᴛ 🥀"
+PL_B_6 : "🐚 Dᴇʟᴇᴛᴇ Pʟᴀʏʟɪꜱᴛ 🐚"
+PL_B_7 : "Yᴇꜱ, I'ᴍ ꜱᴜʀᴇ. Dᴇʟᴇᴛᴇ ɪᴛ 😌"
+PL_B_8 : "🎧 Pʟᴀʏ Tᴏᴘ 10 ᴘʟᴀʏʟɪꜱᴛ 🎧"
+PL_B_9 : "🎧 Pʟᴀʏ Gʟᴏʙᴀʟ Tᴏᴘ 10 Tʀᴀᴄᴋꜱ 🎧"
+PL_B_10 : "🎧 Pʟᴀʏ Gʀᴏᴜᴘ'ꜱ Tᴏᴘ 10 Tʀᴀᴄᴋꜱ 🎧"
+PL_B_11 : "😁 Pʟᴀʏ Pᴇʀꜱᴏɴᴀʟ Tᴏᴘ 10 Tʀᴀᴄᴋꜱ 😁"
+PL_B_12 : " ıllı ɢʀᴏᴜᴘ ıllı "
+PL_B_13 : "ıllı ᴄʜᴀɴɴᴇʟ ıllı"
+
+#Settings
+ST_B_1 : "🔊 Aᴜᴅ Qᴜᴀʟɪᴛʏ"
+ST_B_2 : "🎥 Vɪᴅ Qᴜᴀʟɪᴛʏ"
+ST_B_3 : "🎩 Aᴜᴛʜ Uꜱᴇʀꜱ"
+ST_B_4 : "📱 Dᴀꜱʜʙᴏᴀʀᴅ"
+ST_B_5 : "▶️ Pʟᴀʏ Mᴏᴅᴇ"
+ST_B_6 : "🦋 ᴄʀᴇᴅɪᴛꜱ ᴛᴏ 🦋"
+ST_B_7 : "🔄 Cʟᴇᴀɴ Mᴏᴅᴇ"
+ST_B_8 : "{0} Lᴏw Qᴜᴀʟɪᴛʏ Aᴜᴅɪᴏ"
+ST_B_9 : "{0} Mᴇᴅɪᴜᴍ Qᴜᴀʟɪᴛʏ Aᴜᴅɪᴏ"
+ST_B_10 : "{0} Hɪɢʜ Qᴜᴀʟɪᴛʏ Aᴜᴅɪᴏ"
+ST_B_11 : "{0} Lᴏw Qᴜᴀʟɪᴛʏ Vɪᴅᴇᴏ"
+ST_B_12 : "{0} Mᴇᴅɪᴜᴍ Qᴜᴀʟɪᴛʏ Vɪᴅᴇᴏ"
+ST_B_13 : "{0} Hɪɢʜ Qᴜᴀʟɪᴛʏ Vɪᴅᴇᴏ"
+ST_B_14 : "✅ Eɴᴀʙʟᴇᴅ"
+ST_B_15 : "❌ Dɪꜱᴀʙʟᴇᴅ"
+ST_B_16 : "✨ Aᴅᴍɪɴꜱ"
+ST_B_17 : "👥 Eᴠᴇʀʏᴏɴᴇ"
+ST_B_18 : "📋 Aᴜᴛʜᴏʀɪzᴇᴅ Uꜱᴇʀꜱ Lɪꜱᴛꜱ"
+ST_B_19 : "🔎 Sᴇᴀʀᴄʜ Mᴏᴅᴇ"
+ST_B_20 : "✅ Dɪʀᴇᴄᴛ"
+ST_B_21 : "✅ Iɴʟɪɴᴇ"
+ST_B_22 : "👨‍⚖️ Aᴅᴍɪɴ Cᴏᴍᴍᴀɴᴅꜱ"
+ST_B_23 : "🏘 Gʀᴏᴜᴘ"
+ST_B_24 : "🏷 Cʜᴀɴɴᴇʟ"
+ST_B_25 : "🫂 Pʟᴀʏ Tʏᴘᴇ"
+ST_B_26 : "🗑 Cᴏᴍᴍᴀɴᴅ Cʟᴇᴀɴ"
+ST_B_27 : "🧑‍🚀 Sᴜɢɢᴇꜱᴛɪᴏɴ Mᴏᴅᴇ"
+
+#Song
+SG_B_1 : "↗️ Oᴘᴇɴ Pʀɪᴠᴀᴛᴇ Cʜᴀᴛ"
+SG_B_2 : "🔊 Aᴜᴅɪᴏ"
+SG_B_3 : "🎥 Vɪᴅᴇᴏ"
+
+#Stats
+SA_B_1 : "🦋 Tᴏᴘ 10 Cʜᴀᴛ 🦋"
+SA_B_2 : "🦋 Tᴏᴘ 10 Tʀᴀᴄᴋꜱ 🦋"
+SA_B_3 : "🦋 Tᴏᴘ 10 Uꜱᴇʀꜱ 🦋"
+SA_B_4 : "🦋 Tᴏᴘ 10 Hᴇʀᴇ 🦋"
+SA_B_5 : "🦋 Oᴠᴇʀᴀʟʟ Sᴛᴀᴛꜱ 🦋"
+SA_B_6 : "🦋 Uꜱᴇʀ Sᴛᴀᴛꜱ 🦋"
+SA_B_7 : "🦋 Gʟᴏʙᴀʟ Tᴏᴘ 10 Sᴛᴀᴛꜱ 🦋"
+SA_B_8 : "🤖 Bᴏᴛ Sᴛᴀᴛꜱ 🤖"
+
+#Queue
+QU_B_1 : "📚 Qᴜᴇᴜᴇᴅ Lɪꜱᴛ"
+QU_B_2 : "🍂 Pʟᴀʏᴇᴅ {0} ᴏᴜᴛ ᴏꜰ {1} Mɪɴꜱ"
+
+# Sudo Users [ If you are translating this to some other language .. you can leave all these strings in english language]
+
+#Sudo
+sudo_1 : "{0} ɪꜱ ᴀʟʀᴇᴀᴅʏ ᴀ sudo ᴜꜱᴇʀ 🤔."
+sudo_2 : "Aᴅᴅᴇᴅ {0} ᴛᴏ Sᴜᴅᴏ Uꜱᴇʀꜱ 🐲." 
+sudo_3 : "Nᴏᴛ ᴀ ᴘᴀʀᴛ ᴏꜰ Bᴏᴛ'ꜱ Sᴜᴅᴏ 😏."
+sudo_4 : "Rᴇᴍᴏᴠᴇᴅ ꜰʀᴏᴍ Bᴏᴛ'ꜱ Sᴜᴅᴏ Uꜱᴇʀ 🙁"
+sudo_5 : "⭐️<ᴜ> Owɴᴇʀꜱ:</ᴜ>\n"
+sudo_6 : "\n⭐️<ᴜ> Sᴜᴅᴏ Uꜱᴇʀꜱ:</ᴜ>\n"
+sudo_7 : "Nᴏ Sᴜᴅᴏ Uꜱᴇʀꜱ 😱"
+
+#Block
+block_1 : "{0} ɪꜱ ᴀʟʀᴇᴀᴅʏ blockᴇᴅ ꜰʀᴏᴍ ᴛʜᴇ ʙᴏᴛ 🤓."
+block_2 : "Aᴅᴅᴇᴅ {0} ᴛᴏ Bʟᴏᴄᴋ Lɪꜱᴛ ᴏꜰ ʙᴏᴛ. Uꜱᴇʀ wᴏɴ'ᴛ ʙᴇ ᴀʙʟᴇ ᴛᴏ ᴜꜱᴇ ʙᴏᴛ ɴᴏw ᴜɴᴅᴇʀ ᴀɴʏ ᴄᴏɴᴅɪᴛɪᴏɴ.\n\nCʜᴇᴄᴋ blockᴇᴅ ᴜꜱᴇʀꜱ: /blockedusers"
+block_3 : "Uꜱᴇʀ ɪꜱ ᴀʟʀᴇᴀᴅʏ ꜰʀᴇᴇ ᴀɴᴅ ɴᴏᴛ blockᴇᴅ 😘."
+block_4 : "Rᴇᴍᴏᴠᴇᴅ Uꜱᴇʀ ꜰʀᴏᴍ ᴛʜᴇ block ʟɪꜱᴛ. Uꜱᴇʀ wɪʟʟ ʙᴇ ᴀʙʟᴇ ᴛᴏ ᴜꜱᴇ ʙᴏᴛ ɴᴏw 🥳."
+block_5 : "Nᴏ Bʟᴏᴄᴋᴇᴅ Uꜱᴇʀꜱ Fᴏᴜɴᴅ 🎉🎊"
+block_6 : "Gᴇᴛᴛɪɴɢ Bʟᴏᴄᴋᴇᴅ Uꜱᴇʀꜱ Lɪꜱᴛ.. Pʟᴇᴀꜱᴇ Wᴀɪᴛ 🥴"
+block_7 : "**❌ Bʟᴏᴄᴋᴇᴅ Uꜱᴇʀꜱ:**\n\n"
+
+#Blacklist Chats
+black_1 : "🍀**Uꜱᴀɢᴇ:**\n\n/blacklistchat [CHAT_ID]"
+black_2 : "🍀Cʜᴀᴛ ɪꜱ ᴀʟʀᴇᴀᴅʏ blackʟɪꜱᴛᴇᴅ."
+black_3 : "🍀Cʜᴀᴛ ʜᴀꜱ ʙᴇᴇɴ ꜱᴜᴄᴄᴇꜱꜱꜰᴜʟʟʏ blackʟɪꜱᴛᴇᴅ"
+black_4 : "**🍀Uꜱᴀɢᴇ:**\n\n/whitelistchat [CHAT_ID]"
+black_5 : "🍀Cʜᴀᴛ ɪꜱ ᴀʟʀᴇᴀᴅʏ wʜɪᴛᴇʟɪꜱᴛᴇᴅ."
+black_6 : "🍀Cʜᴀᴛ ʜᴀꜱ ʙᴇᴇɴ ꜱᴜᴄᴄᴇꜱꜱꜰᴜʟʟʏ wʜɪᴛᴇʟɪꜱᴛᴇᴅ"
+black_7 : "🍀**Bʟᴀᴄᴋʟɪꜱᴛᴇᴅ Cʜᴀᴛꜱ:**\n\n"
+black_8 : "🍀Nᴏ Bʟᴀᴄᴋʟɪꜱᴛᴇᴅ Cʜᴀᴛꜱ"
+
+#videolimit
+vid_1 : "**Usage:**\n/set_video_limit [Number of chats allowed] or [Disable]"
+vid_2 : "🙁 Pʟᴇᴀꜱᴇ Uꜱᴇ Nᴜᴍᴇʀɪᴄ Nᴜᴍʙᴇʀꜱ ꜰᴏʀ Sᴇᴛᴛɪɴɢ Lɪᴍɪᴛ."
+vid_3 : "✨ Vɪᴅᴇᴏ Cᴀʟʟꜱ Mᴀxɪᴍᴜᴍ Lɪᴍɪᴛ Dᴇꜰɪɴᴇᴅ ᴛᴏ {0} Cʜᴀᴛꜱ."
+vid_4 : "Vɪᴅᴇᴏ Cᴀʟʟꜱ Dɪꜱᴀʙʟᴇᴅ ✅"
+
+#maintenance
+maint_1 : "**Usage:**\n/maintenance [enable|disable]"
+maint_2 : "Eɴᴀʙʟᴇᴅ ꜰᴏʀ Mᴀɪɴᴛᴇɴᴀɴᴄᴇ✅"
+maint_3 : "Mᴀɪɴᴛᴇɴᴀɴᴄᴇ Mᴏᴅᴇ Dɪꜱᴀʙʟᴇᴅ✅"
+
+#log
+log_1 : "**Usage:**\n/logger [enable|disable]"
+log_2 : "Enabled Logging"
+log_3 : "Logging Disabled"
+
+#videomode
+vidmode_1 : "**Usage:**\n/videomode [download|m3u8]"
+vidmode_2 : "✨Vɪᴅᴇᴏ Pʟᴀʏ Mᴏᴅᴇ ꜱᴇᴛ ᴀꜱ ᴅᴏwɴʟᴏᴅᴇʀ. Bᴏᴛ wɪʟʟ ʙᴇ ᴅᴏwɴʟᴏᴀᴅɪɴɢ ᴛʀᴀᴄᴋꜱ ɴᴏw."
+vidmode_3 : "✨Vɪᴅᴇᴏ Pʟᴀʏ Mᴏᴅᴇ ꜱᴇᴛ ᴀꜱ ᴍ3ᴜ8. Bᴏᴛ wɪʟʟ ʙᴇ ᴘʟᴀʏ ᴛʀᴀᴄᴋꜱ ʟɪᴠᴇ ɴᴏw."
+
+#broadcast
+broad_1 : "Bʀᴏᴀᴅᴄᴀꜱᴛᴇᴅ Mᴇꜱꜱᴀɢᴇ Iɴ {0}  Cʜᴀᴛꜱ wɪᴛʜ {1} Pɪɴꜱ ꜰʀᴏᴍ Bᴏᴛ."
+broad_2 : "Sᴛᴀʀᴛᴇᴅ Aꜱꜱɪꜱᴛᴀɴᴛ Bʀᴏᴀᴅᴄᴀꜱᴛ..."
+broad_3 : "Aꜱꜱɪꜱᴛᴀɴᴛ Bʀᴏᴀᴅᴄᴀꜱᴛ:**\n\n\n\n"
+broad_4 : "Aꜱꜱɪꜱᴛᴀɴᴛ {0} Bʀᴏᴀᴅᴄᴀꜱᴛᴇᴅ ɪɴ {1} ᴄʜᴀᴛꜱ\n\n"
+broad_5 : "**Uꜱᴀɢᴇ:\n\n/broadcast [MESSAGE] ᴏʀ [Rᴇᴘʟʏ ᴛᴏ ᴀ Mᴇꜱꜱᴀɢᴇ]"
+broad_6 : "Pʟᴇᴀꜱᴇ ᴘʀᴏᴠɪᴅᴇ ꜱᴏᴍᴇ ᴛᴇxᴛ ᴛᴏ broadᴄᴀꜱᴛ."
+broad_7 : "Bʀᴏᴀᴅᴄᴀꜱᴛᴇᴅ Mᴇꜱꜱᴀɢᴇ ᴛᴏ {0} Uꜱᴇʀꜱ."
+
+#Heroku
+heroku_1 : "Please make sure your Heroku API Key, Your App name are configured correctly in the heroku"
+heroku_2 : "You can only get logs of Heroku Apps"
+heroku_3 : "**Usage:**\n/get_var [Var Name]"
+heroku_4 : "Unable to find any such var."
+heroku_5 : ".env file not found."
+heroku_6 : "**Usage:**\n/del_var [Var Name]"
+heroku_7 : "{0} Deleted."
+heroku_8 : "**Usage:**\n/set_var [Var Name] [Var Value]"
+heroku_9 : "{0} has been updated successfully"
+heroku_10 : "{0} has been added successfully"
+heroku_11 : "Only for Heroku Apps"
+heroku_12 : "Checking Heroku Usage. Please Wait"
+heroku_13 : "Checking for available updates..."
+heroku_14 : "Git Command Error"
+heroku_15 : "Invalid Git Repsitory"
+
+#Private bot mode
+pbot_1 : "**Usage:**\n/authorize [CHAT_ID]"
+pbot_2 :  "**Usage:**\n/unauthorize [CHAT_ID]"
+pbot_3 : "Added given chat to authorized list"
+pbot_4 : "Removed given chat from authorized list"
+pbot_5 : "Chat is already in the authorized list"
+pbot_6 : "No such chat exists in the authorized list"
+pbot_7 : "Failed to verify chat_id.\n\nMake sure its numeric and in correct format. Don't use chat username or links."
+pbot_8 : "Please wait.... Fetching Authorized chats."
+pbot_9 : "**<b>Fetched Chats:</b>**\n\n"
+pbot_10 : "Private Chat"
+pbot_11 : "No Authorized chats found"
+pbot_12 : "Private Bot Mode is disabled.\n\nTo use your bot as private bot make sure to set **PRIVATE_BOT_MODE** = **True**"
+pbot_13 : "\n**<b>Unfetched Chats:</b>**\n\n"
+
+
+#Gbanned
+gban_1 : "You want to gban yourself? How Fool!"
+gban_2 : "Should i block myself? Lol"
+gban_3 : "You want to block a sudo user?"
+gban_4 : "{0} is already **gbanned** from the bot."
+gban_5 : "**Initializing Gobal Ban on {0}**\n\nExpected Time : {1}."
+gban_6 : "**Gbanned Successfully**\n\nBanned **{0}** from **{1}** chats."
+gban_7 : "{0} is not **gbanned **yet from the bot."
+gban_8 : "**Ungbanning {0}**\n\nExpected Time : {1}."
+gban_9 : "**UnGbanned Successfully**\n\nUnbanned **{0}** in **{1}** chats."
+gban_10 : "No Gbanned Users Found."
+gban_11 : "Please wait a while.. Fetching Gbanned users list"
+
+#Suggestions
+sug_0 : "❓**Do You Know?**\n\n✅ "
+sug_1 : "You can play music in two **search modes** i.e. Direct Mode and Inline Mode.\n\nChange modes via /playmode"
+sug_2 : "You can play music in two **play types** i.e. Everyone Mode and Admins Mode.\n\nChange modes via /playmode"
+sug_3 : "You can play music in **channels** too.\n\nSet channel_id via /channelplay and play via /cplay "
+sug_4 : "Non Admins can use admin commands too by adding them to** AUTH USERS LIST**. \nAdd any user to auth list by /auth , remove with /unauth and check auth users via /authusers"
+sug_5 : "Bot has a feature called **Clean Mode**.\nIt deletes the bot's messages after 5 Mins and ensures that  your chat remains clean.\n\nEnable or disable cleanmode from /settings [__Enabled by default__]"
+sug_6 : "You can play **Spotify** tracks and playlists too.\n\nStart playing now with /play [Spotify Link]"
+sug_7 : "You can play **Apple Music** tracks and playlists too.\n\nStart playing now with /play [Apple Link]"
+sug_8 : "You can play **Resso Music** tracks and playlists too.\n\nStart playing now with /play [Resso Link]"
+sug_9 : "You can play **Sound Cloud** tracks and playlists too.\n\nStart playing now with /play [SoundCloud Link]"
+sug_10 : "You can play **Videos** in voice chat via /vplay [Video Name] or /play -v [Video Name]"
+sug_11 : "You can set **Audio Quality** of voice chat to Low, Medium or High.\n\nSet quality via /settings"
+sug_12 : "You can set **Video Quality** of voice chat to Low, Medium or High.\n\nSet quality via /settings"
+sug_13 : "You can check your **Statistics** on bot like Top 10 Played Tracks.\n\nGet Stats: /gstats "
+sug_14 : "You can check **Group's Stats** on bot like Top 10 Played Tracks.\n\nGet Stats: /gstats "
+sug_15 : "You can check bot's **Global Stats** like top 10 users, top 10 chats, top 10 tracks etc etc.\n\nCheck Stats: /gstats "
+sug_16 : "You can now mute the music which is playing on voice chat.\n\nCommand: /mute"
+sug_17 : "You can now unmute and mute the music which is playing on voice chat.\n\nCommand: /mute and /unmute"
+sug_18 : "You can search the lyrics of musics with us too..\n\nCommand: /lyrics [Music Name]"
+sug_19 : "You can download the music or video from the bot through Youtube.\n\nCommand: /song [Music Name]"
+sug_20 : "You can get a complete list of my commands that i accept.\n\nCommand: /help"
+sug_21 : "Bot has server-sided playlist option.\n\nYou can add music in your playlist and play them all together via /play"
+sug_22 : "You can now shuffle the queued musics on the bot.\n\nCommand: /shuffle"
+sug_23 : "You can check the queue of the musics.\n\nCommand: /queue"
+sug_24 : "You can check my owner and sudo users who manage me.\n\nCommand: /sudolist"
+sug_25 : "Bot has a feature called **Commands Delete Mode**. It deletes its executed commands automatically.\n\nEnable or disable deletemode from /settings [__Enabled by default__]"
+sug_26 : "You can change language of the bot to available languages for easy understanding.\n\nCommand: /language"
+sug_27 : "Bot has a feature called **Force Play**.\n\n**Force Play** stops the playing track on voice chat and starts playing the searched track instantly without disturbing/clearing queue.\n\nCommand: /playforce"

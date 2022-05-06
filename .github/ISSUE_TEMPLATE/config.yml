@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: LG MUSIC
+    url: https://t.me/LGBots
+    about: Direct chat on non-inquiries subjects.
+  - name: Documentation
+    url: https://Tech.tech/
+    about: Documentation for getting started with bot.
