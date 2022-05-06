@@ -81,11 +81,11 @@ async def gen_thumb(videoid):
         para = textwrap.wrap(title, width=32)
         j = 0
         draw.text(
-            (20, 30), f"{MUSIC_BOT_NAME}", fill="white", font=name_font
+            (20, 30), f"{MUSIC_BOT_NAME}👸", fill="white", font=name_font
         )
         draw.text(
             (600, 150),
-            "ƬЄ𝗔Μ ƲƉ𝗔ИƤƖЯ𝗔ƤƤƲ",
+            "TEAM UDANPIRAPPU",
             fill="white",
             stroke_width=2,
             stroke_fill="white",
@@ -133,7 +133,7 @@ async def gen_thumb(videoid):
         )
         draw.text(
             (600, 600),
-            f"Powered By : ƬЄ𝗔Μ ƲƉ𝗔ИƤƖЯ𝗔ƤƤƲ",
+            f"Powered By : TEAM UDANPIRAPPU",
             (255, 255, 255),
             font=arial,
         )        
