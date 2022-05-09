@@ -1,4 +1,4 @@
-   ## 🚀 Okteto Deployment
+   ## 🚀 Heroku Deployment
 
 <h4>Click the button below to deploy  on heroku!</h4>
 
@@ -20,7 +20,8 @@
   
   
      ## 🚀 Generate string
-  
+   
+  <h4>to generate prrogram session!</h4>
   <p align="center">
 <a href="https://t.me/lg_stringsessionbot"><img src="https://img.shields.io/badge/Generate%20On%20Repl-blueviolet?style=for-the-badge&logo=appveyor" width="245""/></a>
  </p>  
