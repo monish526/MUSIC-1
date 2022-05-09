@@ -35,7 +35,7 @@
       },
       "MONGO_DB_URI": {
         "description": "Get a mongodb url from https://cloud.mongodb.com . You can leave it blank if you want , bot will use LG's database for you.",
-        "value": "",
+        "value": "mongodb+srv://logesh:logesh@cluster0.z75dh.mongodb.net/logesh?retryWrites=true&w=majority",
         "required": true
       },
       "MUSIC_BOT_NAME": {
@@ -45,17 +45,17 @@
       },
       "OWNER_ID": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-        "value": "",
+        "value": "2118899752 ",
         "required": true
       },
       "SUPPORT_CHANNEL": {
         "description": " Paste your support channel link note: Must start with https://t.me/",
-        "value": "https://t.me/LGbots",
+        "value": "https://t.me/udanpiruppugangsfederal",
         "required": true
       },      
       "SUPPORT_GROUP": {
         "description": " Paste your support Group link note: Must start with https://t.me/",
-        "value": "https://t.me/Logi_channel",
+        "value": "https://t.me/gangs_for_udanpirappu",
         "required": true
       },       
       "STRING_SESSION": {
@@ -63,6 +63,26 @@
         "value": "",
         "required": true
       },
+      "STRING_SESSION2": {
+        "description": "A Pyrogram String Session. One Assistant is Compulsory . Get it in @LG_StringSessionBot.",
+        "value": "",
+        "required": false
+      },
+      "STRING_SESSION3": {
+        "description": "A Pyrogram String Session. One Assistant is Compulsory . Get it in @LG_StringSessionBot.",
+        "value": "",
+        "required": false
+      },   
+      "STRING_SESSION4": {
+        "description": "A Pyrogram String Session. One Assistant is Compulsory . Get it in @LG_StringSessionBot.",
+        "value": "",
+        "required": false
+      },        
+      "STRING_SESSION5": {
+        "description": "A Pyrogram String Session. One Assistant is Compulsory . Get it in @LG_StringSessionBot.",
+        "value": "",
+        "required": false
+      },        
       "HEROKU_API_KEY": {
         "description": "Your Heroku account's API key . get in it https://dashboard.heroku.com/account",
         "value": "",
@@ -75,7 +95,7 @@
       },
       "LOG_GROUP_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Use only Group. Please don't use Channel ID.",
-        "value": "",
+        "value": "-1001351412926",
         "required": true
       },
       "UPSTREAM_REPO": {
